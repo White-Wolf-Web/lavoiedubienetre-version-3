@@ -6,7 +6,9 @@
 		"imageUrl": "/img/massage-sportif.webp",
 		"imageAlt": "",
 		"url":"/massage/sportif",
-		"titleImg":"Homme recevant un massage libérant les douleurs musculaires"
+		"titleImg":"Homme recevant un massage libérant les douleurs musculaires",
+		"width": 256,
+		"height": 192
 
 	},
 	{
@@ -16,7 +18,9 @@
 		"imageUrl": "/img/massage-relaxant.webp",
 		"imageAlt": "",
 		"url":"/massage/relaxant",
-		"titleImg":"Jeune femme recevant un massage lui permetant de se détendre pleinement"
+		"titleImg":"Jeune femme recevant un massage lui permetant de se détendre pleinement",
+		"width": 256,
+		"height": 192
 	},
 	{
 		"id": 3,
@@ -25,7 +29,9 @@
 		"imageUrl": "/img/shiatsu.webp",
 		"imageAlt": "",
 		"url":"/shiatsu/traditionnel",
-		"titleImg":"Jeune femme recevant un soin Shiatsu"
+		"titleImg":"Jeune femme recevant un soin Shiatsu",
+		"width": 256,
+		"height": 192
 	},
 	{
 		"id": 4,
@@ -34,7 +40,9 @@
 		"imageUrl": "/img/reiki.webp",
 		"imageAlt": "",
 		"url":"/reiki",
-		"titleImg":"2 mains apposé à distance au dessus d'un nombril, infusant l'energie universelle"
+		"titleImg":"2 mains apposé à distance au dessus d'un nombril, infusant l'energie universelle",
+		"width": 256,
+		"height": 192
 	},
 	{
 		"id": 5,
@@ -43,7 +51,9 @@
 		"imageUrl": "/img/massage-sur-chaise.webp",
 		"imageAlt": "",
 		"url":"/shiatsu/amma",
-		"titleImg":"Sur son lieu de travail elle recoit un massage sur chaise"
+		"titleImg":"Sur son lieu de travail elle recoit un massage sur chaise",
+		"width": 256,
+		"height": 192
 	},
 	{
 		"id": 6,
@@ -52,6 +62,8 @@
 		"imageUrl": "/img/reflexologie-plantaire.webp",
 		"imageAlt": "",
 		"url":"/reflexologie-plantaire",
-		"titleImg":"Un massage des pieds qui permet de relacher les tensions"
+		"titleImg":"Un massage des pieds qui permet de relacher les tensions",
+		"width": 256,
+		"height": 192
 	}
 ]

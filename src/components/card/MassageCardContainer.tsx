@@ -10,6 +10,8 @@ interface massageCardData {
 	imageAlt: string;
 	url: string;
 	titleImg:string;
+	width:number;
+	height:number;
 }
 
 export default function MassageCardContainer() {
@@ -20,7 +22,7 @@ export default function MassageCardContainer() {
 				<h2 className="text-3xl md:text-4xl leading-snug mb-4">Soins thérapeutiques</h2>
 					<div className="flex flex-wrap -mx-4">
 						{MassageCarData.map((card: massageCardData) => (
-							<MassageCard key={card.id} title={card.title} description={card.description} imageUrl={card.imageUrl} imageAlt={card.imageAlt}  url={card.url} titleImg={card.titleImg} />
+							<MassageCard key={card.id} title={card.title} description={card.description} imageUrl={card.imageUrl} imageAlt={card.imageAlt}  url={card.url} titleImg={card.titleImg} width={card.width} height={card.height}  />
 						))}
 					</div>
 				</div>
