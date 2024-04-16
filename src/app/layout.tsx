@@ -112,7 +112,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="fr">
        <body className="antialiased max-w-5xl mb-5  md:flex-row mx-4  lg:mx-auto">
    
         <Header />

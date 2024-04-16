@@ -13,7 +13,7 @@ export default function Introduction() {
 					Spécialistes en Shiatsu, Reiki et réflexologie plantaire, je me suis engagé à vous offrir des soins personnalisés et profondément régénérants pour le corps et l&apos;esprit.
 				</p>
 			</div>
-			<Image src={Masseur} alt="Votre masseur à Courcelles Belgique" className="float-right m-3"></Image>
+			<Image src={Masseur} alt="Votre masseur à Courcelles Belgique" className="float-right m-3" title="Votre massothérapeuthe Stéphane"></Image>
 			<div>
 				<h3 className="inline-header">Massage</h3>
 				<p>

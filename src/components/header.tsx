@@ -4,9 +4,9 @@ import { Navbar } from "./nav";
 
 export default function Header() {
 	return (
-		<header>
+		<section>
 			<Banniere />
 			<Navbar />
-		</header>
+		</section>
 	);
 }
