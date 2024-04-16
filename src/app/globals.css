@@ -31,3 +31,31 @@ body {
     text-wrap: balance;
   }
 }
+
+
+h1, h2 {
+  text-align: center;
+}
+
+h3 {
+  font-weight: 700;
+  margin-bottom: -12px !important;
+
+}
+
+a {
+  @apply transition-all decoration-neutral-400 dark:decoration-neutral-600 underline-offset-2 decoration-[0.1em];
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  color: #d4d4d4;
+  margin: 10px auto;
+}
+
+div {
+  margin: 25px auto;
+}
+
