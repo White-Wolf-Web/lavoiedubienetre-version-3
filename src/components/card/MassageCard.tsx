@@ -18,7 +18,7 @@ export default function MassageCard({ title, description, imageUrl, imageAlt, ur
           <div className="bg-white shadow-lg rounded-lg overflow-hidden">
             <Link href={url} >
             <Image src={imageUrl} alt={imageAlt} width={width} height={height} layout="responsive" title={titleImg} /></Link>
-            <div className="p-4">
+            <div className="p-1">
               <h3 className="text-xl text-black font-semibold mb-2">{title}</h3>
               <p className="text-gray-600">{description}</p>
             </div>

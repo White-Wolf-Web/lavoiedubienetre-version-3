@@ -43,7 +43,7 @@ export const metadata: ExtendedMetadata = {
     default: 'Massage à Courcelles | Shiatsu Reiki',
     template: 'La voie du bienetre ',
   },
-  description: 'Votre massage à Courcelles laissera le monde extérieur s’effacer, laissant place à un calme absolu, loin de tout. Venez également essayer Shiatsu & Reiki à Trazegnies',
+  description: 'Votre massage à Courcelles laissera le monde extérieur s’effacer, laissant place à un calme absolu, loin de tout. Venez également essayer Shiatsu & Reiki',
   icons: {
     icon: '/favicon.ico',
   },
