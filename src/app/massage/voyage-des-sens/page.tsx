@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import MassageDouceur from "@public/img/massage-en-douceur.jpg";
+import MassageDouceur from "@public/img/massage-en-douceur.webp";
 import { start } from "repl";
 
 export const metadata: Metadata = {
@@ -20,9 +20,8 @@ export default function page() {
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">Le Massage &apos;Voyage des Sens&apos;</h1>
 			<section className="container space-y-4 max-w-4xl mx-auto p-4 mb-12">
-				<p className="text-base text-gray-300 font-light leading-relaxed mb-4 text-center">
-					<strong>Un Massage qui Éveille et Apaise</strong>
-				</p>
+			<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter"> Massage qui Éveille et Apaise
+				</h2>
 				<p>
 					Dans la quête incessante du bien-être et de l&apos;équilibre intérieur, le massage Voyage des Sens se distingue comme une expérience unique, offerte par La voie du bien-être,
 					destinée à ceux qui aspirent à une détente profonde et à <strong>une évasion sensorielle </strong>

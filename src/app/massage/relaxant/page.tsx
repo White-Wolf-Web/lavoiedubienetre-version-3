@@ -20,9 +20,9 @@ export default function page() {
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">Découvrez le Massage Relaxant</h1>
 			<section className="container space-y-4 max-w-4xl mx-auto p-4 mb-12">
-				<p className="text-base text-gray-300 font-light leading-relaxed mb-4 text-center">
-					<strong>Votre Escapade vers le Bien-être Ultime</strong>
-				</p>
+				<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">
+					Votre Escapade vers le Bien-être Ultime
+				</h2>
 
 				<p>
 					Dans le tumulte du quotidien, où le stress et la fatigue s&apos;accumulent, le massage relaxant émerge comme une bouffée d&apos;air pur, un havre de paix où l&apos;on peut enfin

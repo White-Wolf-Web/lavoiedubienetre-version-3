@@ -19,9 +19,9 @@ export default function page() {
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">le Massage &quot;Douceur Dorsale&quot;</h1>
 			<section className="container space-y-4 max-w-4xl mx-auto p-4 mb-12">
-				<p className="text-base text-gray-300 font-light leading-relaxed mb-4 text-center">
-					<strong>Une Ode au Soulagement du Dos, des Épaules et de la Nuque</strong>
-				</p>
+			<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">
+					Une Ode au Soulagement du Dos, des Épaules et de la Nuque
+				</h2>
 				<p>
 					Dans notre quête quotidienne du bien-être, la zone dorsale mérite une attention toute particulière. Souvent victime de tensions et de douleurs dues au stress, à une mauvaise
 					posture ou à un mode de vie sédentaire, le dos, les épaules et la nuque réclament un soin spécifique pour retrouver détente et souplesse. C&apos;est dans cet esprit que La voie du
@@ -40,7 +40,7 @@ export default function page() {
 						Cette approche spécifique permet de dénouer les tensions accumulées au fil du temps, de soulager les douleurs et de rétablir une circulation optimale dans ces zones souvent
 						surchargées.
 					</p>
-					<p> Car n'oublions pas que c'est dans le dos ou du moins la partie postérieure de notre corps que nous logeons tout ce que nous ne voulons pas voir</p>
+					<p> Car n&apos;oublions pas que c&apos;est dans le dos ou du moins la partie postérieure de notre corps que nous logeons tout ce que nous ne voulons pas voir</p>
 				</div>
 
 				<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">Les Bienfaits Multifacettes des soins apportés à votre dos</h3>

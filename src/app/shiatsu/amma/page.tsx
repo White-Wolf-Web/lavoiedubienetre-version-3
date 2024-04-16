@@ -19,9 +19,9 @@ export default function page() {
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">Le Massage sur Chaise - Amma</h1>
 			<section className="container space-y-4 max-w-4xl mx-auto p-4 mb-12">
-				<p className="text-base text-gray-300 font-light leading-relaxed mb-4 text-center">
-					<strong>Votre Pause Bien-être au Quotidien</strong>
-				</p>
+			<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">
+					Votre Pause Bien-être au Quotidien
+				</h2>
 				<p>
 					Dans la dynamique effrénée de la vie moderne, trouver un moment de pause pour se ressourcer devient essentiel. Le massage sur chaise, également connu sous le nom de Amma, offre
 					cette parenthèse de bien-être, accessible à tous, à tout moment.{" "}

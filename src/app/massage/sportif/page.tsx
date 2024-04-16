@@ -19,9 +19,9 @@ export default function page() {
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">Le Massage Sportif</h1>
 			<section className="container space-y-4 max-w-4xl mx-auto p-4 mb-12">
-				<p className="text-base text-gray-300 font-light leading-relaxed mb-4 text-center">
-					<strong>Votre Allié Performance et Récupération</strong>
-				</p>
+			<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">
+					Votre Allié Performance et Récupération
+				</h2>
 				<p>
 					Dans l&apos;univers du sport, la <strong>performance et la récupération sont deux piliers essentiels pour tout athlète</strong>, qu&apos;il soit amateur passionné ou professionnel
 					aguerri. Le massage sportif, offert chez La voie du bien-être, est conçu spécifiquement pour répondre à ces besoins, en combinant techniques avancées et approche personnalisée pour

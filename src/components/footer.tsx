@@ -13,22 +13,22 @@ import Mail from "../../public/svg/email.svg";
 
 export default function Footer() {
 	return (
-		<footer className="mt-4 px-4 flex flex-col sm:flex-row items-center justify-between ">
+		<footer className=" px-4 mt-4 flex flex-col sm:flex-row justify-between ">
 			<div id="contact" className="">
-				<p className="prose prose-neutral dark:prose-invert text-center">
+				<p className="text-center">
 					<strong>CONTACT</strong>
 				</p>
 				<div className="flex ml-1">
 					<Image src={Mail} alt="" width={20} height={20} />
-					<p>&nbsp; lavoiedubienetre@outlook.com</p>
+					<p className="text-left flex-1">&nbsp; lavoiedubienetre@outlook.com</p>
+				</div>
+				<div className="flex items-center">
+					<Image src={Phone} alt="GSM" width={24} height={24} />
+					<p className="text-left flex-1">&nbsp; 0477 13 19 93</p>
 				</div>
 				<div className="flex">
-					<Image src={Phone} alt="" width={24} height={24} />
-					<p className=" text-gray-300 dark:prose-invert">&nbsp; 0477 13 19 93</p>
-				</div>
-				<div className="flex">
-					<Image src={Adress} alt="" width={24} height={24} />
-					<p>&nbsp; Rue de Chapelle 54, 6183 Courcelles</p>
+					<Image src={Adress} alt=" adresse: Rue de Chapelle 54, 6183 Courcelles" width={24} height={24} />
+					<p className="text-left flex-1">&nbsp; Rue de Chapelle 54, 6183 Courcelles</p>
 				</div>
 			</div>
 

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import shiatsuSurFuton from "@public/img/shiatsu-sur-futon.webp";
+import shiatsuSurFuton from '@public/img/shiatsu-pouces-epaules.webp'
 import Image from "next/image";
 
 export const metadata: Metadata = {
@@ -19,9 +19,9 @@ export default function page() {
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">Plongez dans l&apos;Univers du Shiatsu</h1>
 			<section className="container space-y-4 max-w-4xl mx-auto p-4 mb-12">
-				<p className="text-base text-gray-300 font-light leading-relaxed mb-4 text-center">
-					<strong>Une Thérapie Holistique pour Harmoniser Corps et Esprit</strong>
-				</p>
+			<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">
+					Une Thérapie Holistique pour Harmoniser Corps et Esprit
+				</h2>
 				<p>
 					Le Shiatsu, une forme de thérapie manuelle d&apos;origine japonaise, est reconnu pour sa capacité à rétablir l&apos;équilibre énergétique du corps, à promouvoir la santé et le
 					bien-être général. Chez la voie du bien-être, nous vous invitons à découvrir le Shiatsu, une pratique ancestrale qui utilise la pression des doigts et des paumes pour stimuler les
@@ -37,7 +37,7 @@ export default function page() {
 							limite pas à traiter les symptômes isolés, mais vise à harmoniser le Qi (énergie vitale) dans l&apos;ensemble du corps, favorisant ainsi la capacité naturelle de guérison
 							et le bien-être complet de l&apos;individu.
 						</p>
-						<p> En Orient le shiatsu est considéré telle une médecine préventive, &apos;Se soigner avant d'être malade&apos;.</p>
+						<p> En Orient le shiatsu est considéré telle une médecine préventive, &apos;Se soigner avant d&apos;être malade&apos;.</p>
 					</div>
 				</div>
 

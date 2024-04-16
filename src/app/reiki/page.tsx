@@ -19,9 +19,8 @@ export default function page() {
 		<main>
 			<h1 className="font-medium text-3xl md:text-4xl lg:text-5xl mb-8 tracking-tighter">Explorez le Reiki</h1>
 			<section className="container space-y-4 max-w-4xl mx-auto p-4 mb-12">
-				<p>
-					<strong>Une Porte vers l&apos;Harmonie Intérieure</strong>
-				</p>
+			<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">Une Porte vers l&apos;Harmonie Intérieure
+				</h2>
 				<p>
 					Au cœur d&apos;un monde en perpétuel mouvement, le Reiki émerge comme un phare de tranquillité, offrant <strong>une voie vers l&apos;équilibre et la sérénité</strong>. Nous sommes
 					fiers de présenter le Reiki comme une <strong>pratique énergétique </strong>profonde destinée à tous ceux qui cherchent à enrichir leur parcours de bien-être. Cette technique
