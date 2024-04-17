@@ -13,7 +13,7 @@ const navItems: Record<string, NavProps> = {
         <polyline points="9 22 9 12 15 12 15 22"></polyline>
       </svg>
     ),
-    ariaLabel: 'Home'  // Texte descriptif pour le lien
+    ariaLabel: 'Home'  
   },
   '/#massages': {
     name: 'Massage',

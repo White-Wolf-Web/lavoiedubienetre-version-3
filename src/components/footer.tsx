@@ -29,12 +29,13 @@ export default function Footer() {
 				<div className="flex">
 					<Image src={Adress} alt=" adresse: Rue de Chapelle 54, 6183 Courcelles" width={24} height={24} />
 					<p className="text-left flex-1">&nbsp; Rue de Chapelle 54, 6183 Courcelles</p>
-				</div>
+				</div> 
+				<div><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Massage Courcelles & environs</p></div>
 			</div>
 
 			<div className="">
 				<p className="prose prose-neutral dark:prose-invert text-center">
-					<strong>Massage Shiatsu</strong>
+					<strong>Massages, Shiatsu,</strong>
 				</p>
 				<p className="prose prose-neutral dark:prose-invert text-center">
 					<strong>Réflexologie plantaire</strong>
