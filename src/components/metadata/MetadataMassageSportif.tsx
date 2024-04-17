@@ -41,12 +41,12 @@ export const MetadataMassageSportif = [
 			"@type": "Offer",
 			"itemOffered": {
 			  "@type": "Service",
-			  "name": "Massage Sportif- 1h30",
+			  "name": "Massage Sportif",
 			  "url": "https://lavoiedubienetre.be/massage/sportif",
 			  "description": "Dans l'univers du sport, la performance et la récupération sont deux piliers essentiels pour tout athlète, qu'il soit amateur passionné ou professionnel aguerri.",
 			  "offers": {
 				"@type": "Offer",
-				"price": "99",
+				"price": "59",
 				"priceCurrency": "EUR"
 			  }
 			}
