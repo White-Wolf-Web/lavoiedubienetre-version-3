@@ -2,7 +2,7 @@ export const MetadataHomePage = [
 	{
 		"@context": "https://schema.org",
 		"@type": "HealthAndBeautyBusiness",
-		name: "Shiatsu & Reiki & Massage Courcelles",
+		name: "Shiatsu & Reiki &  à Courcelles",
 		description: "Studio de massage à Courcelles offrant Shiatsu, Reiki, et réflexologie pour une relaxation profonde et une harmonie complète.",
 		address: {
 			"@type": "PostalAddress",
