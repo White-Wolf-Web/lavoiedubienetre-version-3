@@ -4,7 +4,7 @@ import MassageDouceur from "@public/img/massage-en-douceur.webp";
 import { MetadataVoyageDesSens } from "@/components/metadata/MetadataVoyageDesSens";
 
 export const metadata: Metadata = {
-	title: "Massage doux voyage des sens à Courcelles | Bien-être",
+	title: "Massage doux voyage des sens à Courcelles",
 	description: "Massage doux à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant",
 	alternates: {
 		canonical: "https://lavoiedubienetre.be/massage/voyage-des-sens",

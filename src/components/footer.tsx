@@ -20,7 +20,7 @@ export default function Footer() {
 				</p>
 				<div className="flex ml-1">
 					<Image src={Mail} alt="Enveloppe qui fait allusion à un Email" width={20} height={20} />
-					<p className="text-left flex-1">&nbsp; lavoiedubienetre@outlook.com</p>
+					<p className="text-left flex-1">&nbsp; lavoiedubienetre @outlook.com</p>
 				</div>
 				<div className="flex items-center">
 					<Image src={Phone} alt="GSM" width={24} height={24} />

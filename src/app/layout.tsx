@@ -39,11 +39,8 @@ interface ExtendedMetadata extends Metadata {
 
 export const metadata: ExtendedMetadata = {
   metadataBase: new URL('https://lavoiedubienetre.be'),
-  title: {
-    default: 'Massage à Courcelles | Shiatsu Reiki',
-    template: 'La voie du bienetre',
-  },
-  description: 'Votre massage à Courcelles laissera le monde extérieur s’effacer, laissant place à un calme absolu, loin de tout. Venez également essayer Shiatsu & Reiki',
+  title: 'Massage relaxant Courcelles | Shiatsu - Reiki - Reflexologie plantaire',
+  description: 'Votre massage relaxant à Courcelles vous permettra de vous détendre pleinement. Venez également essayer une séance de Shiatsu - Reiki - Reflexologie plantaire',
   icons: {
     icon: '/favicon.ico',
   },

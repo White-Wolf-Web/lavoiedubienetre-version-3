@@ -3,7 +3,7 @@ import Image from "next/image";
 import massagePieds from "@public/img/pied-se-faisant-masser.webp";
 
 export const metadata: Metadata = {
-	title: "Réflexologie Plantaire à Courcelles | La voie du bien-être",
+	title: "Réflexologie Plantaire à Courcelles",
 	description: "Réflexologie Plantaire à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 	alternates: {
 		canonical: "https://lavoiedubienetre.be/reflexologie-plantaire",

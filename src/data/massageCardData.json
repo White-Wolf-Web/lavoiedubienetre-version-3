@@ -24,7 +24,7 @@
 	},
 	{
 		"id": 3,
-		"title": "Shiatsu",
+		"title": "Séance de Shiatsu",
 		"description": "Technique japonaise utilisant la pression des doigts sur des points spécifiques issu de la medecine chinoise afin de rééquilibrer & réharmoniser l'énergie du corps.",
 		"imageUrl": "/img/shiatsu.webp",
 		"imageAlt": "Sur un futon, une jeune femme recoit une séance de shiatsu",
@@ -35,7 +35,7 @@
 	},
 	{
 		"id": 4,
-		"title": "Reiki",
+		"title": "Séance de Reiki",
 		"description": "Méthode de 'guérison énergétique & holistique' qui favorise une relaxation profonde et un bien-être naturel grace à un transfert de l'énergie universelle.",
 		"imageUrl": "/img/reiki.webp",
 		"imageAlt": "La thérapeute glisse ses mains à environ 20 cm des oreilles de sa patiente",
