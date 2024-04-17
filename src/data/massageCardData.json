@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"title": "Massage sportif",
-		"description": "Optimise les performances sportives, accélère la récupération et prévient les blessures grâce à des techniques ciblées.",
+		"description": "Optimise les performances sportives, accélère la récupération et prévient les blessures. Le muscle est travailler en profondeur afin de denouer les noeuds.",
 		"imageUrl": "/img/massage-sportif.webp",
 		"imageAlt": "",
 		"url":"/massage/sportif",
@@ -14,7 +14,7 @@
 	{
 		"id": 2,
 		"title": "Massage relaxant",
-		"description": "Détend le Corps et l'Esprit, réduit le stress et les tensions musculaires grâce à des mouvements doux, apaisants et fluides.",
+		"description": "Détend le Corps et l'Esprit, réduit le stress et les tensions musculaires grâce à des mouvements doux, apaisants et fluides. On en ressort plus léger.",
 		"imageUrl": "/img/massage-relaxant.webp",
 		"imageAlt": "",
 		"url":"/massage/relaxant",
@@ -25,7 +25,7 @@
 	{
 		"id": 3,
 		"title": "Shiatsu",
-		"description": "Technique japonaise utilisant la pression des doigts sur des points spécifiques 'd'acupuncture' pour rééquilibrer l'énergie du corps.",
+		"description": "Technique japonaise utilisant la pression des doigts sur des points spécifiques issu de la medecine chinoise afin de rééquilibrer & réharmoniser l'énergie du corps.",
 		"imageUrl": "/img/shiatsu.webp",
 		"imageAlt": "",
 		"url":"/shiatsu/traditionnel",
@@ -36,7 +36,7 @@
 	{
 		"id": 4,
 		"title": "Reiki",
-		"description": "Méthode de 'guérison énergétique' qui favorise la relaxation profonde et le bien-être en transférant l'énergie universelle.",
+		"description": "Méthode de 'guérison énergétique & holistique' qui favorise une relaxation profonde et un bien-être naturel grace à un transfert de l'énergie universelle.",
 		"imageUrl": "/img/reiki.webp",
 		"imageAlt": "",
 		"url":"/reiki",
@@ -47,7 +47,7 @@
 	{
 		"id": 5,
 		"title": "Massage sur chaise",
-		"description": "Solution rapide, efficace et revitalisant pour soulager les tensions, spécialement conçue pour les environnements de travail.",
+		"description": "Une solution rapide (15 à 20 min), efficace et revitalisant pour soulager les tensions. Un cadeau offert de l'employeur à ses employés sur leur lieu de travail.",
 		"imageUrl": "/img/massage-sur-chaise.webp",
 		"imageAlt": "",
 		"url":"/shiatsu/amma",
@@ -58,11 +58,47 @@
 	{
 		"id": 6,
 		"title": "Réflexologie plantaire",
-		"description": "Technique thérapeutique qui stimule les points réflexes des pieds pour améliorer la santé physique, emotionnelle et mentale sur le temps.",
+		"description": "Considéré comme une médecine douce, elle stimule les points réflexes des pieds pour améliorer la santé physique, emotionnelle et mentale sur le temps.",
 		"imageUrl": "/img/reflexologie-plantaire.webp",
 		"imageAlt": "",
 		"url":"/reflexologie-plantaire",
 		"titleImg":"Un massage des pieds qui permet de relacher les tensions",
+		"width": 256,
+		"height": 192
+	}
+
+
+	,
+	{
+		"id": 7,
+		"title": "Voyage des sens",
+		"description": "Ce massage agit directement sur les facias ce qui permet une détente absolue et profonde. C'est un véritable voyage qui permet de se retrouver.",
+		"imageUrl": "/img/massage-voyage-des-sens-mini.webp",
+		"imageAlt": "On peut ressentir la douceur du massage",
+		"url":"/massage/voyage-des-sens",
+		"titleImg":"Connexion avec les fascias",
+		"width": 256,
+		"height": 192
+	},
+	{
+		"id": 8,
+		"title": "Massage anti-cellulite",
+		"description": "C'est un savant mélange d'une huile spécialement adapté et de techniques orientales, nous allons pouvoir travailler en profondeur sur cette cellulite ",
+		"imageUrl": "/img/massage-ventouses-mini.webp",
+		"imageAlt": "Une ventouse qui travaille sur les capitons d'une cuisse",
+		"url":"/massage/anti-cellulite",
+		"titleImg":"Au revoir à la cellulite",
+		"width": 256,
+		"height": 192
+	},
+	{
+		"id": 9,
+		"title": "Douceur Dorsale",
+		"description": "C'est un massage entièrement dédié au Dos, à la nuque et aux épaules. On va chercher à éliminer ce stress, pour le rendre entièrement détendu. ",
+		"imageUrl": "/img/douceur-nuque.webp",
+		"imageAlt": "4 doigts effleurant la nuque",
+		"url":"/massage/douceur-dorsale",
+		"titleImg":"Effleurage de la nuque",
 		"width": 256,
 		"height": 192
 	}

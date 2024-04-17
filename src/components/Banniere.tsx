@@ -1,5 +1,5 @@
 import Image from "next/image"
-import Banner from '../../public/img/banner-massage.webp'
+import Banner from '../../public/img/banniere-la-voie-du-bien-etre.webp'
 
 
 export default function Banniere() {

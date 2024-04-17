@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Image from "next/image";
-import Masseur from "../../public/img/massage-relaxant-courcelles-halle.webp";
+import Masseur from "../../public/img/stephane-gamot-masseur.webp";
 import CtaButton from "./CtaButton";
 
 export default function Introduction() {
@@ -13,7 +13,8 @@ export default function Introduction() {
 					Spécialistes en Shiatsu, Reiki et réflexologie plantaire, je me suis engagé à vous offrir des soins personnalisés et profondément régénérants pour le corps et l&apos;esprit.
 				</p>
 			</div>
-			<Image src={Masseur} alt="Votre masseur à Courcelles Belgique" className="float-right m-3" title="Votre massothérapeuthe Stéphane"></Image>
+			<Image src={Masseur} alt="Votre masseur à Courcelles Belgique"   className="float-none m-auto sm:float-right sm:m-3" title="Votre massothérapeuthe Stéphane" width={300} height={450}></Image>
+			
 			<div>
 				<h3 className="inline-header">Massage</h3>
 				<p>
