@@ -13,6 +13,12 @@ export const metadata: Metadata = {
 		title: "Shiatsu à Courcelles | La voie du bien-être",
 		description: "Shiatsu à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/shiatsu/traditionnel",
+		images: [{
+			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-Shiatsu-au-niveau-cranien.jpg',
+			width: 1200,
+			height: 627,
+			alt: 'Séance de shiatsu au niveau du crane',
+		  }],
 	},
 };
 export default function TraditionnelShiatsu() {

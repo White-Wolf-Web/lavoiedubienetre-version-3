@@ -13,6 +13,13 @@ export const metadata: Metadata = {
 		title: "Séance de Reiki à Courcelles | La voie du bien-être",
 		description: "Reiki Usui à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/reiki",
+		images: [{
+			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-seance-de-reiki.jpg',
+			width: 1200,
+			height: 627,
+			alt: 'Travail du Tandien avec le reiki',
+			
+		  }],
 	},
 };
 export default function Reiki() {

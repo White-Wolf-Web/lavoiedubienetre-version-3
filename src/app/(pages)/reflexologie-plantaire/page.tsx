@@ -10,8 +10,14 @@ export const metadata: Metadata = {
 	},
 	openGraph: {
 		title: "Réflexologie Plantaire à Courcelles | La voie du bien-être",
-		description: "Réflexologie Plantaire à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+		description: "Réflexologie Plantaire à Courcelles - Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/reflexologie-plantaire",
+		images: [{
+			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-massage-pieds.jpg',
+			width: 1200,
+			height: 627,
+			alt: 'Que de mieux qu un bon massage des pieds apres une longue journée ?',
+		  }],
 	},
 };
 export default function ReflexologiePlantaire() {

@@ -55,7 +55,7 @@ export const metadata: ExtendedMetadata = {
     locale: 'fr_BE',
     type: 'website',
     images: [{
-      url: 'https://lavoiedubienetre.be/img/OG-image-massage-Courcelles.jpg',
+      url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-image-massage-Courcelles.jpg',
       width: 1200,
       height: 627,
       alt: 'La voie du bien-être à Courcelles',

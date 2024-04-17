@@ -13,6 +13,12 @@ export const metadata: Metadata = {
 		title: "Massage sportif à Courcelles | La voie du bien-être",
 		description: "Massage sportif à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/sportif",
+		images: [{
+			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-massage-dos-muscle.jpg',
+			width: 1200,
+			height: 627,
+			alt: 'Un sportif se faisant masser le dos avant une compétition',
+		  }],
 	},
 };
 export default function Sportif() {
