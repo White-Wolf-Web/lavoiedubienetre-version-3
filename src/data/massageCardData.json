@@ -6,9 +6,7 @@
 		"imageUrl": "/img/massage-sportif.webp",
 		"imageAlt": "Les mains du masseur travaillant sur l'épaule droite du patient",
 		"url":"/massage/sportif",
-		"titleImg":"Homme recevant un massage libérant les douleurs musculaires",
-		"width": 256,
-		"height": 192
+		"titleImg":"Homme recevant un massage libérant les douleurs musculaires"
 
 	},
 	{
@@ -18,9 +16,7 @@
 		"imageUrl": "/img/massage-relaxant.webp",
 		"imageAlt": "Les 2 mains sur l'omoplates de sa patiente apportent un réconfort",
 		"url":"/massage/relaxant",
-		"titleImg":"Jeune femme recevant un massage lui permetant de se détendre pleinement",
-		"width": 256,
-		"height": 192
+		"titleImg":"Jeune femme recevant un massage lui permetant de se détendre pleinement"
 	},
 	{
 		"id": 3,
@@ -29,9 +25,7 @@
 		"imageUrl": "/img/shiatsu.webp",
 		"imageAlt": "Sur un futon, une jeune femme recoit une séance de shiatsu",
 		"url":"/shiatsu/traditionnel",
-		"titleImg":"Jeune femme recevant un soin Shiatsu",
-		"width": 256,
-		"height": 192
+		"titleImg":"Jeune femme recevant un soin Shiatsu"
 	},
 	{
 		"id": 4,
@@ -40,9 +34,7 @@
 		"imageUrl": "/img/reiki.webp",
 		"imageAlt": "La thérapeute glisse ses mains à environ 20 cm des oreilles de sa patiente",
 		"url":"/reiki",
-		"titleImg":"2 mains apposé à distance au dessus d'un nombril, infusant l'energie universelle",
-		"width": 256,
-		"height": 192
+		"titleImg":"2 mains apposé à distance au dessus d'un nombril, infusant l'energie universelle"
 	},
 	{
 		"id": 5,
@@ -51,9 +43,7 @@
 		"imageUrl": "/img/massage-sur-chaise.webp",
 		"imageAlt": "Un homme à la chance de recevoir une séance de Amma dans un cadre professionnel",
 		"url":"/shiatsu/amma",
-		"titleImg":"Sur son lieu de travail elle recoit un massage sur chaise",
-		"width": 256,
-		"height": 192
+		"titleImg":"Sur son lieu de travail elle recoit un massage sur chaise"
 	},
 	{
 		"id": 6,
@@ -62,9 +52,7 @@
 		"imageUrl": "/img/reflexologie-plantaire.webp",
 		"imageAlt": "Les deux pouces travaillant sur la voute plantaire, juste audessus de Poumon 1",
 		"url":"/reflexologie-plantaire",
-		"titleImg":"Un massage des pieds qui permet de relacher les tensions",
-		"width": 256,
-		"height": 192
+		"titleImg":"Un massage des pieds qui permet de relacher les tensions"
 	}
 
 
@@ -76,9 +64,7 @@
 		"imageUrl": "/img/massage-voyage-des-sens-mini.webp",
 		"imageAlt": "On peut ressentir la douceur du massage",
 		"url":"/massage/voyage-des-sens",
-		"titleImg":"Connexion avec les fascias",
-		"width": 256,
-		"height": 192
+		"titleImg":"Connexion avec les fascias"
 	},
 	{
 		"id": 8,
@@ -87,9 +73,7 @@
 		"imageUrl": "/img/massage-ventouses-mini.webp",
 		"imageAlt": "Une ventouse qui travaille sur les capitons d'une cuisse",
 		"url":"/massage/anti-cellulite",
-		"titleImg":"Au revoir à la cellulite",
-		"width": 256,
-		"height": 192
+		"titleImg":"Au revoir à la cellulite"
 	},
 	{
 		"id": 9,
@@ -98,8 +82,6 @@
 		"imageUrl": "/img/douceur-nuque.webp",
 		"imageAlt": "4 doigts effleurant la nuque",
 		"url":"/massage/douceur-dorsale",
-		"titleImg":"Prise en contact de la nuque",
-		"width": 256,
-		"height": 192
+		"titleImg":"Prise en contact de la nuque"
 	}
 ]

@@ -23,7 +23,7 @@ export default function Footer() {
 					<p className="text-left flex-1">&nbsp; lavoiedubienetre @outlook.com</p>
 				</div>
 				<div className="flex items-center">
-					<Image src={Phone} alt="GSM" width={24} height={24} />
+					<Image src={Phone} alt="GSM avec son numero pour réserver" width={24} height={24} />
 					<p className="text-left flex-1">&nbsp; 0477 13 19 93</p>
 				</div>
 				<div className="flex">
