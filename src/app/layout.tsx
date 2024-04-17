@@ -15,28 +15,9 @@ export const viewport: Viewport = {
 }
 const inter = Inter({ subsets: ["latin"] });
 
-interface ExtendedMetadata extends Metadata {
-  schemaOrg: {
-    "@context": string;
-    "@type": string;
-    name: string;
-    description: string;
-    address: {
-      "@type": string;
-      streetAddress: string;
-      addressLocality: string;
-      postalCode: string;
-      addressCountry: string;
-    };
-    telephone: string;
-    image: string;
-    url: string;
-    openingHours: string;
-    priceRange: string;
-  }[];
-}
 
-export const metadata: ExtendedMetadata = {
+
+export const metadata = {
   metadataBase: new URL('https://lavoiedubienetre.be'),
   title: 'Massage relaxant Courcelles | Shiatsu - Reiki - Reflexologie plantaire',
   description: 'Votre massage relaxant à Courcelles vous permettra de vous détendre pleinement. Venez également essayer une séance de Shiatsu - Reiki - Reflexologie plantaire',
@@ -82,27 +63,7 @@ export const metadata: ExtendedMetadata = {
   },
   alternates: {
 		canonical: "https://lavoiedubienetre.be",
-	},
-  schemaOrg: [
-    {
-      "@context": "http://schema.org",
-      "@type": "HealthAndBeautyBusiness",
-      "name": "La voie du bien-être",
-      "description": "Studio de massage à Courcelles offrant Shiatsu, Reiki, et réflexologie pour une relaxation et une harmonie complète.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Rue de la Chapelle 54 ",
-        "addressLocality": "Courcelles",
-        "postalCode": "6183",
-        "addressCountry": "BE"
-      },
-      "telephone": "+32 477 13 19 93",
-      "image": "https://lavoiedubienetre.be/img/banner-massage.webp",
-      "url": "https://lavoiedubienetre.be",
-      "openingHours": "Mo,Tu,We,Th,Fr,Sa 09:00-19:00",
-      "priceRange": "$$"
-    }
-  ],
+	}
 };
 
 export default function RootLayout({
