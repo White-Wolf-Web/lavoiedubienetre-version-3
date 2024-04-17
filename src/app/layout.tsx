@@ -5,6 +5,7 @@ import "./globals.css";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import GoogleAnalytics from "../../GoogleAnalytics";
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -73,6 +74,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="fr">
+       <GoogleAnalytics />
        <body className="antialiased max-w-5xl mb-5  md:flex-row mx-4  lg:mx-auto">
    
         <Header />
