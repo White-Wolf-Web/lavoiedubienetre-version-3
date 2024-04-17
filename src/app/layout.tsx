@@ -41,7 +41,7 @@ export const metadata: ExtendedMetadata = {
   metadataBase: new URL('https://lavoiedubienetre.be'),
   title: {
     default: 'Massage à Courcelles | Shiatsu Reiki',
-    template: '% | La voie du bien-etre ',
+    template: 'La voie du bienetre',
   },
   description: 'Votre massage à Courcelles laissera le monde extérieur s’effacer, laissant place à un calme absolu, loin de tout. Venez également essayer Shiatsu & Reiki',
   icons: {
@@ -75,7 +75,7 @@ export const metadata: ExtendedMetadata = {
   twitter: {
     title: 'La voie du bien-être | Shiatsu Reiki Massage à Courcelles',
     card: 'summary_large_image',
-    images: 'https://lavoiedubienetre.be/img/OG-image-massage-Courcelles.jpg'
+    images: 'https://lavoiedubienetre.be/twitter-image.jpg'
   },
   verification: {
     google: 'google1b18195b39af5559',
