@@ -6,12 +6,12 @@ export const metadata: Metadata = {
 	title: "Réflexologie Plantaire à Courcelles | La voie du bien-être",
 	description: "Réflexologie Plantaire à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 	alternates: {
-		canonical: "https://lavoiedubienetre.be/massage/reflexologie-plantaire",
+		canonical: "https://lavoiedubienetre.be/reflexologie-plantaire",
 	},
 	openGraph: {
 		title: "Réflexologie Plantaire à Courcelles | La voie du bien-être",
 		description: "Réflexologie Plantaire à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
-		url: "https://lavoiedubienetre.be/massage/reflexologie-plantaire",
+		url: "https://lavoiedubienetre.be/reflexologie-plantaire",
 	},
 };
 export default function ReflexologiePlantaire() {
