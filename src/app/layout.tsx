@@ -71,7 +71,10 @@ export const metadata: ExtendedMetadata = {
   twitter: {
     title: 'La voie du bien-être | Shiatsu Reiki Massage à Courcelles',
     card: 'summary_large_image',
-    images: 'https://lavoiedubienetre.be/twitter-image.jpg'
+    images: 'https://lavoiedubienetre.be/img/OpenGraph/OG-image-massage-Courcelles.jpg',
+    site:'@voiedubienetre',
+    description:'Centre de massage à Courcelles | Shiatsu Reiki Reflexologie Plantaire | La voie du bien-être'
+
   },
   verification: {
     google: 'google1b18195b39af5559',
