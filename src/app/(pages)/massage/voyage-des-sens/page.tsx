@@ -13,6 +13,7 @@ export const metadata: Metadata = {
 		title: "Massage doux des fascias à Courcelles | La voie du bien-être",
 		description: "Massage doux des fascias à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/voyage-des-sens",
+		type: 'website',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-massage-bien-etre.jpg',
 			width: 1200,

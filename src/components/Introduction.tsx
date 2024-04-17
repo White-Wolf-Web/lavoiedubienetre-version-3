@@ -25,28 +25,28 @@ export default function Introduction() {
 				<p>
 					{" "}
 					Laissez-vous bercer par la promesse d’une relaxation profonde avec notre spécial massage du dos. Ici à la voie du bien-être, ce ne sont pas juste des massages, vous venez vous
-					réfugier dans votre sas de décompression, votre bulle de sérénité.
+					réfugier dans votre sas de décompression, votre bulle de sérénité. Les bienfaits du massage ne sont plus à prouver aujourd&apos;hui alors selon vos besoins du moment vous pourrez choisir le soin désiré.
 				</p>
 			</div>
 			<div className="inline-header divIntroduction">
 				<h3>Shiatsu</h3>
 				<p>
 					Une thérapie manuelle japonaise qui, par une stimulation douce des points d&apos;acupuncture à travers le vêtement, ne se contente pas de masser mais libère les blocages
-					énergétiques. </p><p> Ce processus permet de rééquilibrer les flux vitaux, offrant ainsi soulagement et détente musculaire, et invitent à un lâcher-prise profond.
+					énergétiques. </p><p> Ce processus qui emprunte les méridiens de la médecine chinoise permet de rééquilibrer les flux vitaux, libérer les toxines,  offrant ainsi soulagement et détente musculaire, et invitent à un lâcher-prise profond.
 				</p>
 			</div>
 			<div className="inline-header divIntroduction">
 				<h3>Reiki</h3>
 				<p>
 					Au-delà d&apos;une simple pratique énergétique, le Reiki est un voyage vers le rééquilibrage et la guérison sur tous les plans de l&apos;être. Par une stimulation non invasive, il
-					apaise le mental et le corps, favorisant une relaxation profonde et stimulante.
+					apaise le mental et le corps, favorisant une relaxation profonde et stimulante et renforce l&apos;énergie vitale.
 				</p>
 			</div>
 			<div className="inline-header divIntroduction">
 				<h3>Réflexologie Plantaire</h3>
 				<p>
 					Cette technique ne se limite pas au massage des pieds mais est une voie vers une santé optimale et un bien-être accru.</p><p>  Chaque pression appliquée est un geste d&apos;acupression qui
-					soulage les courbatures et libère les tensions.
+					soulage les courbatures, active le système lymphatique et libère les tensions.
 				</p>
 			</div>
 			<CtaButton />

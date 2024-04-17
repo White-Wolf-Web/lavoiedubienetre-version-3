@@ -12,6 +12,7 @@ export const metadata: Metadata = {
 		title: "Massage anti-cellulite à Courcelles | La voie du bien-être",
 		description: "Massage anti-cellulite à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/anti-cellulite",
+		type: 'website',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-image-massage-Courcelles.jpg',
 			width: 1200,

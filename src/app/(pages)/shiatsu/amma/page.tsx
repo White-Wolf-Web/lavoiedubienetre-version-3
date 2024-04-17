@@ -12,6 +12,7 @@ export const metadata: Metadata = {
 		title: "Massage sur chaise ou Amma à Courcelles | La voie du bien-être",
 		description: "Massage anti-cellulite à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/shiatsu/amma",
+		type: 'website',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-amma.jpg',
 			width: 1200,

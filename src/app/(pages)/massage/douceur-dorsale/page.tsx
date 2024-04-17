@@ -12,6 +12,7 @@ export const metadata: Metadata = {
 		title: "Massage Dos, Epaules & Nuque à Trazegnies | La voie du bien-être",
 		description: "Massage du dos, des épaules et de la nuque à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/douceur-dorsale",
+		type: 'website',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-massage-dos.jpg',
 			width: 1200,

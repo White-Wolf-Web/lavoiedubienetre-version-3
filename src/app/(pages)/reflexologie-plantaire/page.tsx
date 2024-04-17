@@ -12,6 +12,7 @@ export const metadata: Metadata = {
 		title: "Réflexologie Plantaire à Courcelles | La voie du bien-être",
 		description: "Réflexologie Plantaire à Courcelles - Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/reflexologie-plantaire",
+		type: 'website',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-massage-pieds.jpg',
 			width: 1200,

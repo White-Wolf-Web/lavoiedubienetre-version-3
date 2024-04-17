@@ -12,6 +12,13 @@ export const metadata: Metadata = {
 		title: "Massage relaxant à Courcelles | La voie du bien-être",
 		description: "Massage relaxant à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/relaxant",
+		type: 'website',
+		images: [{
+			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-massage-relaxant.jpg',
+			width: 1200,
+			height: 627,
+			alt: 'Une longue séance de massage lui permetant de tout oublier',
+		  }],
 	},
 };
 
