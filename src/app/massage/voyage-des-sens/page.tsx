@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 		url: "https://lavoiedubienetre.be/massage/voyage-des-sens",
 	},
 };
-export default function page() {
+export default function VoyageDesSens() {
 	return (
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">Le Massage &apos;Voyage des Sens&apos;</h1>

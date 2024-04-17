@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 		url: "https://lavoiedubienetre.be/reiki",
 	},
 };
-export default function page() {
+export default function Reiki() {
 	return (
 		<main>
 			<h1 className="font-medium text-3xl md:text-4xl lg:text-5xl mb-8 tracking-tighter">Explorez le Reiki</h1>

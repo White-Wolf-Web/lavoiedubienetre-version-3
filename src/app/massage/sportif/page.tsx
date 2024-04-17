@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 		url: "https://lavoiedubienetre.be/massage/sportif",
 	},
 };
-export default function page() {
+export default function Sportif() {
 	return (
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">Le Massage Sportif</h1>

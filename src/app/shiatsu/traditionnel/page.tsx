@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 		url: "https://lavoiedubienetre.be/shiatsu/traditionnel",
 	},
 };
-export default function page() {
+export default function TraditionnelShiatsu() {
 	return (
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">Plongez dans l&apos;Univers du Shiatsu</h1>

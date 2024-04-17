@@ -4,8 +4,8 @@ import Banner from '../../public/img/banner-massage.webp'
 
 export default function Banniere() {
   return (
-    <header>
+    <div>
     <Image src={Banner} alt="Vue sur un Bouddha de mon salon de massage - shiatsu" className="banner" title="salon de soins relaxant"></Image>
-    </header>
+    </div>
   )
 }

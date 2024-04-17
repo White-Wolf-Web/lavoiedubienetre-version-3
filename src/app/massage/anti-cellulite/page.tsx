@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 		url: "https://lavoiedubienetre.be/massage/anti-cellulite",
 	},
 };
-export default function page() {
+export default function AntiCellulite() {
 	return (
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">le Massage Anti-Cellulite</h1>
