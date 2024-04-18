@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import MassageVentouses from "@public/img/massage-avec-ventouses.webp";
+import { MetadataMassageAntiCellulite } from "@/components/metadata/MetadataMassageAntiCellulite";
 
 export const metadata: Metadata = {
 	title: "Massage anti-cellulite à Courcelles | La voie du bien-être",
@@ -86,6 +87,7 @@ export default function AntiCellulite() {
 
 				<p></p>
 			</section>
+			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataMassageAntiCellulite) }} />
 		</main>
 	);
 }
