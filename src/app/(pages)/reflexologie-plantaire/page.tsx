@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import massagePieds from "@public/img/pied-se-faisant-masser.webp";
+import { MetadataReflexologiePlantaire } from "@/components/metadata/MetadataReflexologiePlantaire";
 
 export const metadata: Metadata = {
 	title: "Réflexologie Plantaire à Courcelles",
@@ -88,6 +89,7 @@ export default function ReflexologiePlantaire() {
 					remerciera pour ce moment de détente profonde et de guérison naturelle.
 				</p>
 			</section>
+			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataReflexologiePlantaire) }} />
 		</main>
 	);
 }

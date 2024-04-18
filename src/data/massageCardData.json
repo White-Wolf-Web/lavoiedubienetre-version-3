@@ -47,7 +47,7 @@
 	},
 	{
 		"id": 6,
-		"title": "Réflexologie plantaire",
+		"title": "Réflexologie Plantaire",
 		"description": "Considéré comme une médecine douce, elle stimule les points réflexes des pieds pour améliorer la santé physique, emotionnelle et mentale sur le temps.",
 		"imageUrl": "/img/reflexologie-plantaire.webp",
 		"imageAlt": "Les deux pouces travaillant sur la voute plantaire, juste audessus de Poumon 1",
@@ -78,7 +78,7 @@
 	{
 		"id": 9,
 		"title": "Douceur Dorsale",
-		"description": "C'est un massage entièrement dédié au Dos, à la nuque et aux épaules. On va chercher à éliminer ce stress, pour le rendre entièrement détendu. ",
+		"description": "C'est un massage entièrement dédié au dos, à la nuque et aux épaules. On va chercher à éliminer ce stress, pour le rendre entièrement détendu. ",
 		"imageUrl": "/img/douceur-nuque.webp",
 		"imageAlt": "4 doigts effleurant la nuque",
 		"url":"/massage/douceur-dorsale",
