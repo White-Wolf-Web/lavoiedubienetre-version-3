@@ -20,7 +20,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   metadataBase: new URL('https://lavoiedubienetre.be'),
-  title: 'Massage relaxant Courcelles | Shiatsu - Reiki - Reflexologie plantaire',
+  title: 'Massage relaxant Courcelles | Shiatsu & Réflexologie Plantaire',
   description: 'Votre massage relaxant à Courcelles vous permettra de vous détendre pleinement. Venez également essayer une séance de Shiatsu - Reiki - Reflexologie plantaire',
   icons: {
     icon: '/favicon.ico',
