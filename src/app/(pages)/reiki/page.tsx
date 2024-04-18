@@ -31,8 +31,8 @@ export default function Reiki() {
 			<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">Une Porte vers l&apos;Harmonie Intérieure
 				</h2>
 				<p>
-					Au cœur d&apos;un monde en perpétuel mouvement, le Reiki émerge comme un phare de tranquillité, offrant <strong>une voie vers l&apos;équilibre et la sérénité</strong>. Nous sommes
-					fiers de présenter le Reiki comme une <strong>pratique énergétique </strong>profonde destinée à tous ceux qui cherchent à enrichir leur parcours de bien-être. Cette technique
+					Au cœur d&apos;un monde en perpétuel mouvement, le Reiki émerge comme un phare de tranquillité, offrant <strong>une voie vers l&apos;équilibre et la sérénité</strong>. Je suis
+					fier de présenter le Reiki comme une <strong>pratique énergétique </strong>profonde destinée à tous ceux qui cherchent à enrichir leur parcours de bien-être. Cette technique
 					japonaise ancestrale de guérison par l&apos;énergie invite à un voyage intérieur, permettant de rétablir l&apos;harmonie entre le corps, l&apos;esprit et l&apos;âme.{" "}
 				</p>
 				<div>
@@ -49,19 +49,19 @@ export default function Reiki() {
 					</p>{" "}
 					<p>
 						{" "}
-						Ce qui permettra aux énergies d’être équilibrées et régulées, ce qui vous procurera un apaisement durable sur les 3 plans du corps terrestre, physique, mental et de émotionnel.
+						Ce qui permettra aux énergies d’être équilibrées et régulées, ce qui vous procurera un apaisement durable sur les 3 plans du corps terrestre, physique, mental et de l&apos;émotionnel.
 					</p>
 				</div>
-				<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">Les Bienfaits Multidimensionnels du Reiki</h3>
-				<p>Pratiquer le Reiki ou recevoir un soin Reiki apporte de nombreux bienfaits, tangibles dès les premières séances :</p>
+				<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">Les bienfaits multidimensionnels du Reiki</h3>
+				<p>Pratiquer le Reiki ou recevoir un soin Reiki apporte de nombreux bienfaits, tangibles dès la première séance :</p>
 				<ul>
 					<li className="prose prose-neutral dark:prose-invert">
-						<strong>Réduction significative du stress et de l&apos;anxiété</strong> :Le Reiki induit un état de <strong>relaxation profonde</strong>, permettant de libérer les tensions
+						<strong>Réduction significative du stress et de l&apos;anxiété</strong> : Le Reiki induit un état de <strong>relaxation profonde</strong>, permettant de libérer les tensions
 						accumulées et de combattre efficacement le stress.
 					</li>
 					<li className="prose prose-neutral dark:prose-invert">
 						<strong>Amélioration du bien-être émotionnel</strong> : En rééquilibrant les énergies, le Reiki aide à surmonter les blocages émotionnels, favorisant un sentiment de paix et de
-						contentement.
+						sérénité.
 					</li>
 					<li className="prose prose-neutral dark:prose-invert">
 						<strong>Soutien au processus de guérison physique </strong> : Bien qu&apos;il ne remplace pas les traitements médicaux, le Reiki est un complément précieux, aidant à soulager
