@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import shiatsuSurFuton from '@public/img/shiatsu-pouces-epaules.webp'
 import Image from "next/image";
 import { MetadataShiatsu } from "@/components/metadata/MetadataShiatsu";
+import PagePicIconBar from "@/components/pagePicIconBar";
 
 export const metadata: Metadata = {
 	title: "Shiatsu à Courcelles | La voie du bien-être",
@@ -95,6 +96,7 @@ export default function TraditionnelShiatsu() {
 					accompagner dans votre voyage vers un bien-être intégral, où chaque pression exercée ouvre la voie à un équilibre retrouvé entre votre corps et votre esprit.
 				</p>
 			</section>
+			<PagePicIconBar />
 			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataShiatsu) }} />
 		</main>
 	);

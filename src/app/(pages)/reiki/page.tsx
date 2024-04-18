@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import ReikiDistance from "@public/img/reiki-a-distance.webp";
 import { MetadataReiki } from "@/components/metadata/MetadataReiki";
+import PagePicIconBar from "@/components/pagePicIconBar";
+
 
 export const metadata: Metadata = {
 	title: "Séance de Reiki à Courcelles| La voie du bien-être",
@@ -91,6 +93,7 @@ export default function Reiki() {
 					espace où chaque soin est une étape vers la découverte de votre potentiel intérieur.
 				</p>
 			</section>
+			<PagePicIconBar />
 			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataReiki) }} />
 		</main>
 	);

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import MassageDorsale from "@public/img/massage-dorsale.webp";
 import { MetadataDouceurDorsale } from "@/components/metadata/MetadataDouceurDorsale";
+import PagePicIconBar from "@/components/pagePicIconBar";
 
 export const metadata: Metadata = {
 	title: "Massage Dos, Epaules & Nuque à Courcelles | Douceur dorsale",
@@ -96,6 +97,7 @@ export default function DouceurDorsale() {
 					Contactez-nous dès aujourd&apos;hui pour planifier votre séance et entamez votre chemin vers un soulagement durable et une relaxation profonde.
 				</p>
 			</section>
+			<PagePicIconBar />
 			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataDouceurDorsale) }} />
 		</main>
 	);

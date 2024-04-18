@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import MassageProfond from "@public/img/massage-profond-dos-omoplate.webp";
 import { MetadataMassageSportif } from "@/components/metadata/MetadataMassageSportif";
+import PagePicIconBar from "@/components/pagePicIconBar";
 
 export const metadata: Metadata = {
 	title: "Massage sportif à Courcelles | La voie du bien-être",
@@ -89,6 +90,7 @@ export default function Sportif() {
 					prenez-en soin avec l&apos;expertise et le dévouement de nos thérapeutes spécialisés en massage sportif.
 				</p>
 			</section>
+			<PagePicIconBar />
 			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataMassageSportif) }} />
 		</main>
 	);

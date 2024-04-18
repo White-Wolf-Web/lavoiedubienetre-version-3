@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import MassageVentouses from "@public/img/massage-avec-ventouses.webp";
 import { MetadataMassageAntiCellulite } from "@/components/metadata/MetadataMassageAntiCellulite";
+import PagePicIconBar from "@/components/pagePicIconBar";
 
 export const metadata: Metadata = {
 	title: "Massage anti-cellulite à Courcelles | La voie du bien-être",
@@ -85,8 +86,9 @@ export default function AntiCellulite() {
 				<p>Laissez-nous vous guider vers une peau plus lisse, une silhouette plus ferme et un bien-être accru. </p>
 				<p>Avec le massage anti-cellulite aux ventouses, ouvrez la porte à une nouvelle version de vous-même, où la confiance et la beauté vont de pair avec la santé et la vitalité.</p>
 
-				<p></p>
+				
 			</section>
+			<PagePicIconBar />
 			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataMassageAntiCellulite) }} />
 		</main>
 	);

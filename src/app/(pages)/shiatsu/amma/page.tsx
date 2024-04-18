@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import MassageAssis from "@public/img/massage-assis-chaise-bleue.webp";
 import { MetadataMassageSurChaise } from "@/components/metadata/MetadataMassageSurChaise";
+import PagePicIconBar from "@/components/pagePicIconBar";
 
 export const metadata: Metadata = {
 	title: "Massage sur chaise ou Amma à Courcelles | Bien-être",
@@ -93,6 +94,7 @@ export default function Amma() {
 					de votre quotidien. Avec nous vous redécouvrez le plaisir de prendre soin de vous, simplement, efficacement.
 				</p>
 			</section>
+			<PagePicIconBar />
 			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataMassageSurChaise ) }} />
 		</main>
 	);
