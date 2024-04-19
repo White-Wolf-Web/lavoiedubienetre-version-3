@@ -21,8 +21,11 @@ export default function Introduction() {
 					Imaginez un moment où le monde extérieur s’efface, laissant place à une quiétude absolue. C’est ce que vous promettent mes massages, une expérience unique qui vous transporte loin
 					de tout.</p><p> Ici à Courcelles chaque massage relaxant est une invitation à un voyage intérieur, où l’on peut tout oublier, s’abandonner et profiter d&apos;un réconfort profond.
 				</p>
+				<p>Lors d&apos;une séance de massage, vous sentirez vos muscles se dénouer, apportant une relaxation intense et un soulagement des douleurs musculaires.
+Votre système lymphatique va s’activer de lui même, facilitant ainsi l&apos;élimination des toxines. Cela permettra également de renforcer votre circulation sanguine et d’améliorer votre bien-être général.
+</p>
 				<p>
-					{" "}
+					
 					Laissez-vous bercer par la promesse d’une relaxation profonde avec notre massage spécial du dos. Ici à la voie du bien-être, ce ne sont pas juste des massages, vous venez vous
 					réfugier dans votre sas de décompression, votre bulle de sérénité. Les bienfaits du massage ne sont plus à prouver aujourd&apos;hui alors selon vos besoins du moment vous pourrez choisir le soin désiré.
 				</p>
@@ -45,7 +48,8 @@ export default function Introduction() {
 				<h3>Réflexologie plantaire</h3>
 				<p>
 					Cette technique ne se limite pas au massage des pieds mais est une voie vers une santé optimale et un bien-être accru.</p><p>  Chaque pression appliquée est un geste d&apos;acupression qui
-					soulage les courbatures, active le système lymphatique et libère les tensions.
+					soulage les courbatures, active le système lymphatique et libère les tensions. Ce massage des pieds a pour fonction secondaire d&apos;assouplir la voûte plantaire et donc de réduire significativement les douleurs physiques.
+					Tout en améliorant la flexibilité et la mobilité du pied et de la cheville, idéal pour ceux qui passent de longues heures debout.
 				</p>
 			</div>
 			<CtaButton />

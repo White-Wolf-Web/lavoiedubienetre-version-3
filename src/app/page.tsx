@@ -2,6 +2,7 @@ import Image from "next/image";
 import Introduction from "@/components/Introduction";
 import MassageCardContainer from "@/components/card/MassageCardContainer";
 import GloogleMap from "@/components/GloogleMap";
+import Gift from "@/components/gift";
 import { MetadataHomePage } from "@/components/metadata/MetadataHomePage";
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
 
 			<MassageCardContainer />
 			<GloogleMap />
+			<Gift />
       </div>
 	  <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataHomePage) }} />
 		</main>
