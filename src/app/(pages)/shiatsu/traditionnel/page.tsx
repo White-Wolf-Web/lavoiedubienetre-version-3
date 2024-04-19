@@ -3,6 +3,7 @@ import shiatsuSurFuton from '@public/img/shiatsu-pouces-epaules.webp'
 import Image from "next/image";
 import { MetadataShiatsu } from "@/components/metadata/MetadataShiatsu";
 import PagePicIconBar from "@/components/pagePicIconBar";
+import Link from "next/link";
 
 export const metadata: Metadata = {
 	title: "Shiatsu à Courcelles | La voie du bien-être",
@@ -95,6 +96,7 @@ export default function TraditionnelShiatsu() {
 					Nous vous invitons à prendre rendez-vous pour une séance de Shiatsu et à expérimenter par vous-même les effets revitalisants de cette pratique millénaire. Laissez-nous vous
 					accompagner dans votre voyage vers un bien-être intégral, où chaque pression exercée ouvre la voie à un équilibre retrouvé entre votre corps et votre esprit.
 				</p>
+				<p>Pour ceux qui n&apos;ont jamais le temps, il existe le <Link href="/shiatsu/amma">Amma</Link>, qui est du shiatsu sur chaise dont la séance dure environ 15 à 20 minutes </p>
 			</section>
 			<PagePicIconBar />
 			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataShiatsu) }} />

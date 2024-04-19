@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 export default function ReflexologiePlantaire() {
 	return (
 		<main>
-			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">les Bienfaits de la Réflexologie Plantaire</h1>
+			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">Les Bienfaits de la Réflexologie Plantaire</h1>
 			<section className="container space-y-4 max-w-4xl mx-auto p-4 mb-12">
 			<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">
 					Un Massage des Pieds pour votre Bien-être

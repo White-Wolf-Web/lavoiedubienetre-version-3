@@ -42,7 +42,7 @@ export default function Introduction() {
 				</p>
 			</div>
 			<div className="inline-header divIntroduction">
-				<h3>Réflexologie Plantaire</h3>
+				<h3>Réflexologie plantaire</h3>
 				<p>
 					Cette technique ne se limite pas au massage des pieds mais est une voie vers une santé optimale et un bien-être accru.</p><p>  Chaque pression appliquée est un geste d&apos;acupression qui
 					soulage les courbatures, active le système lymphatique et libère les tensions.

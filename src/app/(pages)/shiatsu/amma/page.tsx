@@ -3,6 +3,7 @@ import Image from "next/image";
 import MassageAssis from "@public/img/massage-assis-chaise-bleue.webp";
 import { MetadataMassageSurChaise } from "@/components/metadata/MetadataMassageSurChaise";
 import PagePicIconBar from "@/components/pagePicIconBar";
+import Link from "next/link";
 
 export const metadata: Metadata = {
 	title: "Massage sur chaise ou Amma à Courcelles | Bien-être",
@@ -46,7 +47,7 @@ export default function Amma() {
 					<p>En seulement 15 à 30 minutes, cette technique cible les zones de tension dans le dos, les épaules, le cou, les bras et la tête. </p>
 					<p>
 						Le praticien utilise des pressions, des percussions, des étirements et des balayages pour stimuler la circulation, relâcher les muscles tendus et promouvoir un état de
-						bien-être général.
+						bien-être général. Certains diront que c&apos;est une courte séance de <Link href="/shiatsu/traditionnel">Shiatsu</Link> sur chaise qui est adapté pour le monde du travail.
 					</p>
 				</div>
 				<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">Les Bienfaits Multiples du Amma</h3>

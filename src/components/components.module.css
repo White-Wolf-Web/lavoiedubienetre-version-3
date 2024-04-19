@@ -18,3 +18,8 @@
     display: inline; 
     margin: 5px; 
   }
+
+  .PicCardSize {
+    width: 256px;
+    height: 192px;
+  }
