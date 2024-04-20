@@ -5,6 +5,7 @@ import "./globals.css";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import { Analytics } from "@vercel/analytics/react"
 import GoogleAnalytics from "../../GoogleAnalytics";
 
 export const viewport: Viewport = {
@@ -61,6 +62,7 @@ export const metadata = {
   verification: {
     google: 'google1b18195b39af5559',
     yandex: '',
+
   },
   alternates: {
 		canonical: "https://lavoiedubienetre.be",
@@ -81,6 +83,7 @@ export default function RootLayout({
         {children}
         <Footer />
         <SpeedInsights />
+        <Analytics />
       
         </body>
     </html>
