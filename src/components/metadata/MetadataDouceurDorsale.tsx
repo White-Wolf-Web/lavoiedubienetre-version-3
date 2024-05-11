@@ -55,6 +55,16 @@ export const MetadataDouceurDorsale = [
 	  },
   },
   {
+		"@context": "https://schema.org",
+		"@type": "ImageObject",
+		"author": "Freepik",
+		"contentLocation": "Courcelles, Belgique",
+		"contentUrl": "/img/massage-dorsale.webp",
+		"datePublished": "2024-04-09",
+		"description": "Travail tres doux au niveau du dos afin de relacher les tensions",
+		"name": "Une jeune femme se faisant masser le dos en douceur",
+	},
+  {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [

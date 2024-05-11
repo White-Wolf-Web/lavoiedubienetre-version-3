@@ -3,6 +3,7 @@ import React from "react";
 import Image from "next/image";
 import Masseur from "../../public/img/stephane-gamot-masseur.webp";
 import CtaButton from "./CtaButton";
+import { MetadataIntroduction } from "./metadata/MetadataIntroduction";
 
 export default function Introduction() {
 	return (
@@ -13,7 +14,7 @@ export default function Introduction() {
 					Spécialiste en Shiatsu, Reiki et réflexologie plantaire, je m&apos;engage à vous offrir des soins personnalisés et profondément régénérants pour le corps et l&apos;esprit.
 				</p>
 			</div>
-			<Image src={Masseur} alt="Votre masseur Courcelles Belgique"   className="float-none m-auto sm:float-right sm:m-3" title="Votre massothérapeuthe Courcelles" width={300} height={450}></Image>
+			<Image src={Masseur} alt="Stéphane votre masseur Courcelles Belgique"   className="float-none m-auto sm:float-right sm:m-3" title="Votre massothérapeuthe Courcelles" width={300} height={450}></Image>
 			
 			<div>
 				<h3 className="inline-header">Massage</h3>
@@ -53,6 +54,7 @@ Votre système lymphatique va s’activer de lui même, facilitant ainsi l&apos;
 				</p>
 			</div>
 			<CtaButton />
+			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataIntroduction) }} />
 		</section>
 	);
 }

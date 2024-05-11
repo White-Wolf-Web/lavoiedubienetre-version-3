@@ -1,6 +1,7 @@
 import React from "react";
 import MassageCard from "./MassageCard";
 import MassageCarData from "../../data/massageCardData.json";
+import { MetadataCardContainer } from "../metadata/MetadataCardContainer";
 
 
 
@@ -17,6 +18,7 @@ export default function MassageCardContainer() {
 					</div>
 				</div>
 			</div>
+			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataCardContainer) }} />
 		</div>
 	);
 }

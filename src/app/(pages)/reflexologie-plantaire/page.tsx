@@ -91,7 +91,7 @@ export default function ReflexologiePlantaire() {
 				</p>
 			</section>
 			<PagePicIconBar />
-			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataReflexologiePlantaire) }} />
+<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataReflexologiePlantaire) }} />			
 		</main>
 	);
 }

@@ -55,7 +55,16 @@ export const MetadataMassageRelaxant = [
 		  }
 		]
 	  },
-  },
+  }, {
+		"@context": "https://schema.org",
+		"@type": "ImageObject",
+		"author": "Freepik",
+		"contentLocation": "Courcelles, Belgique",
+		"contentUrl": "/img/massage-relaxation-profonde.webp",
+		"datePublished": "2024-04-22",
+		"description": "Les 2 mains du masseur sur les omoplates d'une jeune femme blonde allongée sur une table de massage, la  massant en douceur afin de la relaxer.",
+		"name": "un massage relaxant en profondeur afin de se détendre pleinement",
+	},
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
