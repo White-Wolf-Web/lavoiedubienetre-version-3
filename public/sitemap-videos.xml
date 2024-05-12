@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://lavoiedubienetre.be/massage/relaxant</loc>
+    <video:video>
+      <video:thumbnail_loc>https://lavoiedubienetre.be/videos/img/Img-video-massage-professional-relaxant.webp</video:thumbnail_loc>
+      <video:title>Techniques de Massage Relaxant Professionnel</video:title>
+      <video:description>
+        Cette courte vidéo démontre des techniques de massage relaxant professionnel pour aider à détendre les muscles et l'esprit.
+      </video:description>
+      <video:content_loc>
+        https://lavoiedubienetre.be/videos/massage-professional-relaxant.mp4
+      </video:content_loc>
+        <video:tag>massage relaxant</video:tag>
+      <video:tag>relaxation Courcelles</video:tag>
+      <video:tag>bien-être</video:tag>
+      <video:duration>31</video:duration> 
+      <video:publication_date>2024-05-12T08:00:00+08:00</video:publication_date>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  <!-- Ajoutez d'autres vidéos ici si nécessaire -->
+</urlset>
