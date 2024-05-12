@@ -4,6 +4,7 @@ import MassageCardContainer from "@/components/card/MassageCardContainer";
 import GloogleMap from "@/components/GloogleMap";
 import Gift from "@/components/gift";
 import { MetadataHomePage } from "@/components/metadata/MetadataHomePage";
+import VideoSalonZenCourcelles from "@/components/video/videoSalonZenCourcelles";
 
 export default function Home() {
 	return (
@@ -18,6 +19,7 @@ export default function Home() {
 			<MassageCardContainer />
 			<GloogleMap />
 			<Gift />
+			<VideoSalonZenCourcelles  />
       </div>
 	  <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataHomePage) }} />
 		</main>

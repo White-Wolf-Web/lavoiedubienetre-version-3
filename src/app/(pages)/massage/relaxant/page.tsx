@@ -3,6 +3,7 @@ import Image from "next/image";
 import MassageRelaxation from "@public/img/massage-relaxation-profonde.webp";
 import { MetadataMassageRelaxant } from "@/components/metadata/MetadataMassageRelaxant";
 import PagePicIconBar from "@/components/pagePicIconBar";
+import VideoMassageRelaxant from "@/components/video/videoMassageRelaxant";
 
 export const metadata: Metadata = {
 	title: "Massage relaxant à Courcelles | La voie du bien-être",
@@ -113,6 +114,7 @@ export default function Relaxant() {
 					Prenez rendez-vous dès aujourd&apos;hui et préparez-vous à vivre une expérience de relaxation profonde qui revitalisera votre corps et votre esprit. Laissez derrière vous le
 					tumulte de la vie quotidienne et plongez dans un univers de calme et de détente. Votre voyage vers le bien-être commence ici et maintenant.
 				</p>
+				<VideoMassageRelaxant />
 			</section>
 			<PagePicIconBar />
 			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataMassageRelaxant) }} />
