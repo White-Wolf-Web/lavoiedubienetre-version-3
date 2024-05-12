@@ -3,6 +3,7 @@ import Image from "next/image";
 import massagePieds from "@public/img/pied-se-faisant-masser.webp";
 import { MetadataReflexologiePlantaire } from "@/components/metadata/MetadataReflexologiePlantaire";
 import PagePicIconBar from "@/components/pagePicIconBar";
+import VideoReflexologiePlantaire from "@/components/video/videoReflexologiePlantaire";
 
 export const metadata: Metadata = {
 	title: "Réflexologie Plantaire à Courcelles",
@@ -89,6 +90,7 @@ export default function ReflexologiePlantaire() {
 					Prenez rendez-vous aujourd&apos;hui à &apos;La Voie du Bien-Être&apos; et ressentez la différence qu&apos;un massage des pieds professionnel peut faire dans votre vie quotidienne. Votre corps vous
 					remerciera pour ce moment de détente profonde et de guérison naturelle.
 				</p>
+				<VideoReflexologiePlantaire />
 			</section>
 			<PagePicIconBar />
 <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataReflexologiePlantaire) }} />			
