@@ -15,7 +15,7 @@ export default function VideoReflexologiePlantaire() {
 				preload="none"
 				className="w-full"
 				aria-label="Réflexologie plantaire professionnel"
-				title="Vidéo d'une sénace de réflexologie plantaire"
+				title="Vidéo d'une séance de réflexologie plantaire"
 				aria-describedby="2 mains massant un pied"
         poster="/videos/img/Img-video-reflexologie-plantaire.webp"
         >
