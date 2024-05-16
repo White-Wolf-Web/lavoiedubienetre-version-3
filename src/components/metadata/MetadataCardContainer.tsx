@@ -2,8 +2,6 @@ export const MetadataCardContainer = [
 	{
 		"@context": "https://schema.org",
 		"@type": "ImageObject",
-		"author": "Freepik",
-		"contentLocation": "Courcelles, Belgique",
 		"contentUrl": "/img/massage-sportif.webp",
 		"datePublished": "2024-03-22",
 		"description": "La main gauche du masseur prenant les muscles de l'épaule, afin de détendre la zone",
@@ -12,8 +10,6 @@ export const MetadataCardContainer = [
     {
 		"@context": "https://schema.org",
 		"@type": "ImageObject",
-		"author": "Freepik",
-		"contentLocation": "Courcelles, Belgique",
 		"contentUrl": "/img/massage-relaxant.webp",
 		"datePublished": "2024-04-22",
 		"description": "Les 2 mains du masseur sur les omoplates d'une jeune femme, la  massant endouceur afin de la relaxer",
@@ -21,8 +17,6 @@ export const MetadataCardContainer = [
 	},{
 		"@context": "https://schema.org",
 		"@type": "ImageObject",
-		"author": "Freepik",
-		"contentLocation": "Courcelles, Belgique",
 		"contentUrl": "/img/shiatsu.webp",
 		"datePublished": "2023-11-23",
 		"description": "Les 2 mains du thérapeuthe shiatsu sous les omoplates d'une jeune femme habillée, travaillant de facon enérgétique",
@@ -30,8 +24,6 @@ export const MetadataCardContainer = [
 	},{
 		"@context": "https://schema.org",
 		"@type": "ImageObject",
-		"author": "Freepik",
-		"contentLocation": "Courcelles, Belgique",
 		"contentUrl": "/img/reiki.webp",
 		"datePublished": "2023-11-23",
 		"description": "Les 2 mains de la thérapeuthe reiki autour des tempes, lui donnant un soin",
@@ -39,8 +31,6 @@ export const MetadataCardContainer = [
 	},{
 		"@context": "https://schema.org",
 		"@type": "ImageObject",
-		"author": "Freepik",
-		"contentLocation": "Trazegnies, Belgique",
 		"contentUrl": "/img/massage-sur-chaise.webp",
 		"datePublished": "2023-09-23",
 		"description": "Les 2 mains du masseur placées juste au-dessus des lombaires sur les muscles spinaux",
@@ -48,8 +38,6 @@ export const MetadataCardContainer = [
 	},{
 		"@context": "https://schema.org",
 		"@type": "ImageObject",
-		"author": "Freepik",
-		"contentLocation": "Trazegnies, Belgique",
 		"contentUrl": "/img/reflexologie-plantaire.webp",
 		"datePublished": "2022-10-26",
 		"description": "Les 2 pouces massant la voute plantaire procurant une liberation des tensions",
@@ -57,8 +45,6 @@ export const MetadataCardContainer = [
 	},{
 		"@context": "https://schema.org",
 		"@type": "ImageObject",
-		"author": "Freepik",
-		"contentLocation": "Trazegnies, Belgique",
 		"contentUrl": "/img/massage-voyage-des-sens-mini.webp",
 		"datePublished": "2024-05-08",
 		"description": "Les 2 mains massant en douceur le dos permettant de liberer toutes les tensions",
@@ -67,8 +53,6 @@ export const MetadataCardContainer = [
     {
 		"@context": "https://schema.org",
 		"@type": "ImageObject",
-		"author": "Freepik",
-		"contentLocation": "Courcelles, Belgique",
 		"contentUrl": "/img/massage-ventouses-mini.webp",
 		"datePublished": "2024-04-08",
 		"description": "On voit le masseur faire glisser une ventouse au niveau des poignées d'amour pour faire réagir cette vilaine peau d'orange",
@@ -76,8 +60,6 @@ export const MetadataCardContainer = [
 	},{
 		"@context": "https://schema.org",
 		"@type": "ImageObject",
-		"author": "Freepik",
-		"contentLocation": "Courcelles, Belgique",
 		"contentUrl": "/img/douceur-nuque.webp",
 		"datePublished": "2024-04-09",
 		"description": "Travail tres doux au niveau de la nuque afin de relacher les tensions",
