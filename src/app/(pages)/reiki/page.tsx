@@ -6,14 +6,14 @@ import PagePicIconBar from "@/components/pagePicIconBar";
 
 
 export const metadata: Metadata = {
-	title: "Séance de Reiki à Courcelles| La voie du bien-être",
-	description: "Reiki Usui à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+	title: "Séance de Reiki à Halle - Bruxelles| La voie du bien-être",
+	description: "Reiki Usui à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 	alternates: {
 		canonical: "https://lavoiedubienetre.be/reiki",
 	},
 	openGraph: {
-		title: "Séance de Reiki à Courcelles | La voie du bien-être",
-		description: "Reiki Usui à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+		title: "Séance de Reiki à Halle - Bruxelles | La voie du bien-être",
+		description: "Reiki Usui à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/reiki",
 		type: 'website',
 		images: [{

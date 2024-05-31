@@ -14,7 +14,7 @@ export default function GloogleMap() {
 				allowFullScreen={true}
 				loading="lazy"
 				referrerPolicy="no-referrer-when-downgrade" 
-				title="Localisation de la voie du bien-être à Courcelles"></iframe>
+				title="Localisation de la voie du bien-être à Halle"></iframe>
 		</section>
         
     	);

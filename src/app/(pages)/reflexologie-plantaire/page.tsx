@@ -6,14 +6,14 @@ import PagePicIconBar from "@/components/pagePicIconBar";
 import VideoReflexologiePlantaire from "@/components/video/videoReflexologiePlantaire";
 
 export const metadata: Metadata = {
-	title: "Réflexologie Plantaire à Courcelles",
-	description: "Réflexologie Plantaire à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+	title: "Réflexologie Plantaire à Halle - Bruxelles",
+	description: "Réflexologie Plantaire à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 	alternates: {
 		canonical: "https://lavoiedubienetre.be/reflexologie-plantaire",
 	},
 	openGraph: {
-		title: "Réflexologie Plantaire à Courcelles | La voie du bien-être",
-		description: "Réflexologie Plantaire à Courcelles - Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+		title: "Réflexologie Plantaire à Halle - Bruxelles | La voie du bien-être",
+		description: "Réflexologie Plantaire à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/reflexologie-plantaire",
 		type: 'website',
 		images: [{

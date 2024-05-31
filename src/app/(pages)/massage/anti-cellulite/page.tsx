@@ -5,13 +5,13 @@ import { MetadataMassageAntiCellulite } from "@/components/metadata/MetadataMass
 import PagePicIconBar from "@/components/pagePicIconBar";
 
 export const metadata: Metadata = {
-	title: "Massage anti-cellulite à Courcelles | La voie du bien-être",
-	description: "Massage anti-cellulite à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+	title: "Massage anti-cellulite à Halle - Bruxelles| La voie du bien-être",
+	description: "Massage anti-cellulite à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 	alternates: {
 		canonical: "https://lavoiedubienetre.be/massage/anti-cellulite",
 	},
 	openGraph: {
-		title: "Massage anti-cellulite à Courcelles | La voie du bien-être",
+		title: "Massage anti-cellulite à Halle - Bruxelles | La voie du bien-être",
 		description: "Massage anti-cellulite à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/anti-cellulite",
 		type: 'website',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-image-massage-Courcelles.jpg',
 			width: 1200,
 			height: 627,
-			alt: 'La voie du bien-être à Courcelles',
+			alt: 'La voie du bien-être à Halle - Bruxelles',
 		  }],
 	},
 };

@@ -5,14 +5,14 @@ import { MetadataVoyageDesSens } from "@/components/metadata/MetadataVoyageDesSe
 import PagePicIconBar from "@/components/pagePicIconBar";
 
 export const metadata: Metadata = {
-	title: "Massage doux voyage des sens à Courcelles",
-	description: "Massage doux à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant",
+	title: "Massage doux voyage des sens à Halle - Bruxelles",
+	description: "Massage doux à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant",
 	alternates: {
 		canonical: "https://lavoiedubienetre.be/massage/voyage-des-sens",
 	},
 	openGraph: {
-		title: "Massage doux des fascias à Courcelles | La voie du bien-être",
-		description: "Massage doux des fascias à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+		title: "Massage doux des fascias à Halle - Bruxelles | La voie du bien-être",
+		description: "Massage doux des fascias à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/voyage-des-sens",
 		type: 'website',
 		images: [{

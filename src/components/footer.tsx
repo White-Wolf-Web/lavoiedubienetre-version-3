@@ -27,10 +27,10 @@ export default function Footer() {
 					<p className="text-left flex-1">&nbsp; 0477 13 19 93</p>
 				</div>
 				<div className="flex">
-					<Image src={Adress} alt=" adresse: Rue de Chapelle 54, 6183 Courcelles" width={24} height={24} />
-					<p className="text-left flex-1">&nbsp; Rue de Chapelle 54, 6183 Courcelles</p>
+					<Image src={Adress} alt=" adresse: Oct de Kerchove d'exaerdestraat 193, 1501 Buizingen" width={24} height={24} />
+					<p className="text-left flex-1">&nbsp; Oct K. ExaerdeStraat 193, 1501 Buizingen</p>
 				</div> 
-				<div><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Massage Courcelles & environs</p></div>
+				<div><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Massage Bruxelles-Capitale et Brabant (Wallon + Flamand)</p></div>
 			</div>
 
 			<div className="">

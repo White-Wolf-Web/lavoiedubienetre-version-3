@@ -6,14 +6,14 @@ import PagePicIconBar from "@/components/pagePicIconBar";
 import VideoMassageRelaxant from "@/components/video/videoMassageRelaxant";
 
 export const metadata: Metadata = {
-	title: "Massage relaxant à Courcelles | La voie du bien-être",
-	description: "Massage relaxant à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+	title: "Massage relaxant à Halle - Bruxelles | La voie du bien-être",
+	description: "Massage relaxant à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 	alternates: {
 		canonical: "https://lavoiedubienetre.be/massage/relaxant",
 	},
 	openGraph: {
-		title: "Massage relaxant à Courcelles | La voie du bien-être",
-		description: "Massage relaxant à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+		title: "Massage relaxant à Halle - Bruxelles | La voie du bien-être",
+		description: "Massage relaxant à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/relaxant",
 		type: "website",
 		images: [

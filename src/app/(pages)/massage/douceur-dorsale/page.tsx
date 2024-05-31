@@ -5,13 +5,13 @@ import { MetadataDouceurDorsale } from "@/components/metadata/MetadataDouceurDor
 import PagePicIconBar from "@/components/pagePicIconBar";
 
 export const metadata: Metadata = {
-	title: "Massage Dos, Epaules & Nuque à Courcelles | Douceur dorsale",
+	title: "Massage Dos, Epaules & Nuque à Halle - Bruxelles | Douceur dorsale",
 	description: "Massage du dos, des épaules et de la nuque à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 	alternates: {
 		canonical: "https://lavoiedubienetre.be/massage/douceur-dorsale",
 	},
 	openGraph: {
-		title: "Massage Dos, Epaules & Nuque à Courcelles | La voie du bien-être",
+		title: "Massage Dos, Epaules & Nuque à Halle - Bruxelles | La voie du bien-être",
 		description: "Massage du dos, des épaules et de la nuque à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/douceur-dorsale",
 		type: 'website',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-massage-dos.jpg',
 			width: 1200,
 			height: 627,
-			alt: 'Massage des épaules à Courcelles',
+			alt: 'Massage des épaules à Halle - Bruxelles',
 		  }],
 	},
 };

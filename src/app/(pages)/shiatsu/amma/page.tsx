@@ -6,14 +6,14 @@ import PagePicIconBar from "@/components/pagePicIconBar";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-	title: "Massage sur chaise ou Amma à Courcelles | Bien-être",
-	description: "Amma ou Massage sur Chaise à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+	title: "Massage sur chaise ou Amma à Halle - Bruxelles | Bien-être",
+	description: "Amma ou Massage sur Chaise à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 	alternates: {
 		canonical: "https://lavoiedubienetre.be/shiatsu/amma",
 	},
 	openGraph: {
-		title: "Massage sur chaise ou Amma à Courcelles | La voie du bien-être",
-		description: "Massage anti-cellulite à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+		title: "Massage sur chaise ou Amma à Halle - Bruxelles | La voie du bien-être",
+		description: "Massage anti-cellulite à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/shiatsu/amma",
 		type: 'website',
 		images: [{

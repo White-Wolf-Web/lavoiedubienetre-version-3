@@ -2,13 +2,13 @@ export const MetadataHomePage = [
 	{
 		"@context": "https://schema.org",
 		"@type": "HealthAndBeautyBusiness",
-		"name": "Shiatsu & Reiki &  à Courcelles",
-		"description": "Studio de massage à Courcelles offrant Shiatsu, Reiki, et réflexologie pour une relaxation profonde et une harmonie complète.",
+		"name": "Shiatsu & Reiki & à Halle Brabant Flamand",
+		"description": "Studio de massage à Halle offrant Shiatsu, Reiki, et réflexologie pour une relaxation profonde et une harmonie complète.",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "Rue de Chapelle 54",
-			"addressLocality": "Courcelles",
-			"postalCode": "6183",
+			"streetAddress": "Octaaf de Kerchove d'exaerdestraat 193",
+			"addressLocality": "Halle",
+			"postalCode": "1501",
 			"addressCountry": "BE",
 		},
 		"openingHoursSpecification": [

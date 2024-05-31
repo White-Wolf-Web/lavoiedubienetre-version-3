@@ -6,14 +6,14 @@ import PagePicIconBar from "@/components/pagePicIconBar";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-	title: "Shiatsu à Courcelles | La voie du bien-être",
-	description: "Shiatsu à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+	title: "Shiatsu à Halle - Bruxelles | La voie du bien-être",
+	description: "Shiatsu à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 	alternates: {
 		canonical: "https://lavoiedubienetre.be/shiatsu/traditionnel",
 	},
 	openGraph: {
-		title: "Shiatsu à Courcelles | La voie du bien-être",
-		description: "Shiatsu à Courcelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+		title: "Shiatsu à Halle - Bruxelles | La voie du bien-être",
+		description: "Shiatsu à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/shiatsu/traditionnel",
 		type: 'website',
 		images: [{

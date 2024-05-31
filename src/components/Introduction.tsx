@@ -10,11 +10,11 @@ export default function Introduction() {
 		<section>
 			<div>
 				<p>
-					Au cœur de Courcelles, la voie du bien-être vous invite à découvrir l&apos;art ancestral du massage, une porte ouverte vers l&apos;équilibre et l&apos;harmonie intérieure.
+					Au cœur du Brabant Flamand à Halle, la voie du bien-être vous invite à découvrir l&apos;art ancestral du massage, une porte ouverte vers l&apos;équilibre et l&apos;harmonie intérieure.
 					Spécialiste en Shiatsu, Reiki et réflexologie plantaire, je m&apos;engage à vous offrir des soins personnalisés et profondément régénérants pour le corps et l&apos;esprit.
 				</p>
 			</div>
-			<Image src={Masseur} alt="Stéphane votre masseur Courcelles Belgique"   className="float-none m-auto sm:float-right sm:m-3" title="Votre massothérapeuthe Courcelles" width={300} height={450}></Image>
+			<Image src={Masseur} alt="Stéphane votre masseur Halle - Bruxelles Belgique"   className="float-none m-auto sm:float-right sm:m-3" title="Votre massothérapeuthe Courcelles" width={300} height={450}></Image>
 			
 			<div>
 				<h3 className="inline-header">Massage</h3>

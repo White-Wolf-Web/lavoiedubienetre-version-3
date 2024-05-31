@@ -21,14 +21,14 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   metadataBase: new URL('https://lavoiedubienetre.be'),
-  title: 'Massage relaxant Courcelles | Shiatsu & Réflexologie Plantaire',
-  description: 'Votre massage relaxant à Courcelles vous permettra de vous détendre pleinement. Venez également essayer une séance de Shiatsu - Reiki - Reflexologie plantaire',
+  title: 'Massage relaxant à Halle - Bruxelles | Shiatsu',
+  description: 'Votre massage relaxant à Halle - Bruxelles vous permettra de vous détendre pleinement. Venez également essayer une séance de Shiatsu - Reiki - Reflexologie plantaire',
   icons: {
     icon: '/favicon.ico',
   },
   openGraph: {
     title: 'La voie du bien-être | Détente et Relaxation',
-    description: 'Profitez d’un massage unique à Courcelles. Shiatsu, Reiki, et relaxation profonde vous attendent.',
+    description: 'Profitez d’un massage unique à Halle. Shiatsu, Reiki, et relaxation profonde vous attendent.',
     url: 'https://lavoiedubienetre.be',
     siteName: 'La voie du bien-être',
     locale: 'fr_BE',
@@ -37,7 +37,7 @@ export const metadata = {
       url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-image-massage-Courcelles.jpg',
       width: 1200,
       height: 627,
-      alt: 'La voie du bien-être à Courcelles',
+      alt: 'La voie du bien-être à Halle',
     }],
   },
   robots: {
@@ -52,11 +52,11 @@ export const metadata = {
     },
   },
   twitter: {
-    title: 'La voie du bien-être | Shiatsu Reiki Massage à Courcelles',
+    title: 'La voie du bien-être | Shiatsu Reiki Massage à Halle',
     card: 'summary_large_image',
     images: 'https://lavoiedubienetre.be/img/OpenGraph/OG-image-massage-Courcelles.jpg',
     site:'@voiedubienetre',
-    description:'Centre de massage à Courcelles | Shiatsu Reiki Reflexologie Plantaire | La voie du bien-être'
+    description:'Centre de massage à Halle | Shiatsu Reiki Reflexologie Plantaire | La voie du bien-être'
 
   },
   verification: {
