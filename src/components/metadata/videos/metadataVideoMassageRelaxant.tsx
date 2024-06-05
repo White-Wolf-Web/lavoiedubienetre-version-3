@@ -8,6 +8,13 @@ export const MetadataVideoMassageRelaxant = [
 		"uploadDate": "2024-05-12T08:00:00+08:00",
 		"duration": "PT31S",
 		"contentUrl": "/videos/massage-professional-relaxant.mp4",
-		"embedUrl": "https://lavoiedubienetre.be/videos/massage-professional-relaxant.mp4"
+		"embedUrl": "",
+		"interactionStatistic": {
+			"@type": "InteractionCounter",
+			"interactionType": {
+			  "@type": "WatchAction"
+			},
+			"userInteractionCount": 12345
+		  }
 	},
 ];

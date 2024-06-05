@@ -16,7 +16,7 @@ export default function VideoSalonZenCourcelles() {
 				className="w-full"
 				aria-label="Salle zen de massage "
 				title="Vidéo d'une salle de massage à Courcelles"
-				aria-describedby="des Bouddhas, une table de massage, un coffre, des plantes"
+				aria-describedby="Des Bouddhas, une table de massage, un coffre, des plantes"
         poster="/videos/img/img-video-salle-zen.webp"
         >
 				<source src="/videos/salle-zen-massage-la-voie-du-bien-etre.mp4" type="video/mp4" />

@@ -11,8 +11,10 @@ export const MetadataVideoReflexologiePlantaire = [
 		"embedUrl": "",
 		"interactionStatistic": {
 			"@type": "InteractionCounter",
-			"interactionType": "http://schema.org/WatchAction",
-			"userInteractionCount": 12345,
-		},
+			"interactionType": {
+			  "@type": "WatchAction"
+			},
+			"userInteractionCount": 12345
+		  }
 	},
 ];
