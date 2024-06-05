@@ -22,7 +22,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   metadataBase: new URL('https://lavoiedubienetre.be'),
   title: 'Massage relaxant à Halle - Bruxelles | Shiatsu',
-  description: 'Votre massage relaxant à Halle - Bruxelles vous permettra de vous détendre pleinement. Venez également essayer une séance de Shiatsu - Reiki - Reflexologie plantaire',
+  description: 'Votre massage relaxant à Halle - Bruxelles vous permettra de vous détendre pleinement, je propose également une séance de Shiatsu, Reiki, Réflexologie plantaire',
   icons: {
     icon: '/favicon.ico',
   },
