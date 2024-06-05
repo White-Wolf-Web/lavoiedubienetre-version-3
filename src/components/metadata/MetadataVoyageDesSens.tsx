@@ -53,15 +53,22 @@ export const MetadataVoyageDesSens = [
 		]
 	  },
 },{
-  "@context": "https://schema.org",
+  "@context": "http://schema.org",
   "@type": "ImageObject",
-  "author": "Freepik",
-  "contentLocation": "Trazegnies, Belgique",
+  "author": {
+    "@type": "Organization",
+    "name": "Freepik"
+  },
+  "contentLocation": {
+    "@type": "Place",
+    "name": "Trazegnies, Belgique"
+  },
   "contentUrl": "/img/massage-en-douceur.webp",
   "datePublished": "2024-05-08",
-  "description": "Les 2 mains massant en douceur le dos permettant de liberer toutes les tensions accumulées au fil du temps",
-  "name": "Voyage des sens est un massage tres lent, tres doux, qui permet de 'partir' loin pendant 2 heures",
-},
+  "description": "Les 2 mains massant en douceur le dos permettant de libérer toutes les tensions accumulées au fil du temps",
+  "name": "Voyage des sens est un massage très lent, très doux, qui permet de 'partir' loin pendant 2 heures"
+}
+,
 	{
         "@context": "https://schema.org",
         "@type": "FAQPage",
