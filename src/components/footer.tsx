@@ -35,7 +35,7 @@ export default function Footer() {
 
 			<div className="">
 				<p className="prose prose-neutral dark:prose-invert text-center">
-					<strong>Massages, Shiatsu,</strong>
+					<strong>Massages Shiatsu,</strong>
 				</p>
 				<p className="prose prose-neutral dark:prose-invert text-center">
 					<strong>Réflexologie plantaire</strong>
