@@ -1,0 +1,98 @@
+[
+	{
+		"body": "Massage au top. Stéphane est très pro et sympathique. Je recommande vivement. Pour ma part, j' y retournerai sans hésitation.",
+		"author": {
+			"name": "Stéphanie Brandt",
+			"imageUrl": "/img/testimonial/testimonial-1.jpg",
+			"imageAlt": "Elle est venu pour un soin apaisant."
+		}
+	},
+	{
+		"body": "Excellent massage complet de 2 heures . je suis sorti tout à fait decontracté. Stéphane comprend parfaitement ou se trouvent les tensions et y remédie immédiatement Merci",
+		"author": {
+			"name": "Hervé Leroy",
+			"imageUrl": "/img/testimonial/testimonial-3.jpg",
+			"imageAlt": "Hervé est venu pour un soucis au niveau du système lymphatique"
+		}
+	},
+	{
+		"body": "Un jour, j'avais hyper mal au dos, ne sachant presque plus bouger, Stéphane m'a tout remis en place et depuis rarement mal au dos.",
+		"author": {
+			"name": "Patricia Calafato",
+			"imageUrl": "/img/testimonial/testimonial-12.webp",
+			"imageAlt": "Ici pour des douleurs dorsales et articulaires"
+		}
+	},
+	{
+		"body": "Visite très agréable avec Stéphane, la première fois s'est super bien passée C'est donc pour cela que je continue à aller chez lui malgré les 30 min de route.",
+		"author": {
+			"name": "Valérie Vanderlinden",
+			"imageUrl": "/img/testimonial/testimonial-5.jpg",
+			"imageAlt": "Elle avais besoin d'un travail en profondeur sur les muscles."
+		}
+	},
+	{
+		"body": "Détente totale avec l’impression de flotter au-dessus des nuages , légère comme une plume virevoltante au vent .😃👍",
+		"author": {
+			"name": "Nathalie Hiel",
+			"imageUrl": "/img/testimonial/testimonial-8.jpg",
+			"imageAlt": "Avait un grand besoin d'être apaisé et détendu."
+		}
+	},
+	{
+		"body": "Altijd zeer goede massages, zeer goede individuele service en prijs-kwaliteit zeer goed. Zeker de moeite waard!",
+		"author": {
+			"name": "Jetske Debusscher",
+			"imageUrl": "/img/testimonial/testimonial-2.jpg",
+			"imageAlt": "Venu à l'origine pour un drainage."
+		}
+	}
+    ,
+	{
+		"body": "J'ai un boulant assez stressant et Stéphane est le seul qui arrive à me rendre zen et détendu, il arrive à faire disparaitre mes douleurs au dos. C'est un magicien.",
+		"author": {
+			"name": "Laurent Claas",
+			"imageUrl": "/img/testimonial/testimonial-7.jpg",
+			"imageAlt": "Personne tres stréssé par son travail."
+		}
+	},
+	{
+		"body": "Zeer ange aangename ervaring. Ik voelde me heel goed daarna. Heel veel geholpen om beter te voelen. Cadre simple, propre et agréable. Soin très relaxant.A refaire et à recommander sans hésitation !",
+		"author": {
+			"name": "Claudine C",
+			"imageUrl": "/img/testimonial/testimonial-6.jpg",
+			"imageAlt": "Beaucoup de tensions dans le dos à dénouer."
+		}
+	},
+	{
+		"body": "Le massage dos est très relaxant aussi bien physiquement que psychologiquement. J’ai également beaucoup apprécié le shiatsu ainsi que la séance de réflexologie. Je vous recommande sincèrement la voie du bien être",
+		"author": {
+			"name": "Catherine Delattre",
+			"imageUrl": "/img/testimonial/testimonial-4.jpg",
+			"imageAlt": "Beaucoup de tension musculaire ainsi que des noeuds."
+		}
+	},{
+		"body": "Stephane est bienveillant bonne écoute agréable je le recommande, parfait pour le stress. Il m'a également appris des étirements ce qui a favorisé le relachement",
+		"author": {
+			"name": "Sofia Ramos",
+			"imageUrl": "/img/testimonial/testimonial-10.webp",
+			"imageAlt": "Grande sportive, gros travail sur tous les muscles."
+		}
+	},
+	{
+		"body": "Thérapeute professionnel, à l écoute, tres relaxant. Merci à la voie du bien-être",
+		"author": {
+			"name": "Céline Aubecq",
+			"imageUrl": "/img/testimonial/testimonial-11.webp",
+			"imageAlt": "Elle recherchait un moyen de déconnecter."
+		}
+	},
+	{
+		"body": "Stéphane is een zeer aangenaam persoon en een getalenteerde masseur die intuïtief werkt. Ik kan hem zeker aanraden.",
+		"author": {
+			"name": "Joris Vander Cammen",
+			"imageUrl": "/img/testimonial/testimonial-9.webp",
+			"imageAlt": "Il vient régulierement, juste pour le plaisir et profiter de mes mains."
+		}
+	}
+]

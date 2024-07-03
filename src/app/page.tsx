@@ -2,7 +2,7 @@ import Image from "next/image";
 import Introduction from "@/components/Introduction";
 import MassageCardContainer from "@/components/card/MassageCardContainer";
 import GloogleMap from "@/components/GloogleMap";
-import Gift from "@/components/gift";
+import Testimonials from "@/components/Testimonials"
 import { MetadataHomePage } from "@/components/metadata/MetadataHomePage";
 import VideoSalonZenCourcelles from "@/components/video/videoSalonZenCourcelles";
 
@@ -18,7 +18,7 @@ export default function Home() {
 
 			<MassageCardContainer />
 			<GloogleMap />
-			<Gift />
+			<Testimonials />
 			<VideoSalonZenCourcelles  />
       </div>
 	  <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataHomePage) }} />

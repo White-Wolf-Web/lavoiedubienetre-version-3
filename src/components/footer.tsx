@@ -30,7 +30,7 @@ export default function Footer() {
 					<Image src={Adress} alt=" adresse: Oct de Kerchove d'exaerdestraat 193, 1501 Buizingen" width={24} height={24} />
 					<p className="text-left flex-1">&nbsp; Oct K. ExaerdeStraat 193, 1501 Buizingen</p>
 				</div> 
-				<div><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Massage Bruxelles-Capitale et Brabant (Wallon + Flamand)</p></div>
+				<div><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Massage Bruxelles-Capitale, Brabant Wallon et Brabant Flamand </p></div>
 			</div>
 
 			<div className="">

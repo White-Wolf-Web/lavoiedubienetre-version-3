@@ -14,7 +14,7 @@ interface MassageCardProps {
 export default function MassageCard({ title, description, imageUrl, imageAlt, url}: MassageCardProps) {
     return (
         <div className="w-full sm:w-1/2 md:w-1/3 px-4">
-          <div className="bg-white shadow-lg rounded-lg overflow-hidden w-64 h-487px m-0 ">
+          <div className="bg-white shadow-lg rounded-lg overflow-hidden w-64 h-487px mx-auto md:m-0">
             <Link href={url} >
             <Image src={imageUrl} alt={imageAlt} width={256} height={192} loading="lazy" layout="fixed"  title={title} className={Style.PicCardSize} />
             <div className="p-1 mt-2 mx-4">
