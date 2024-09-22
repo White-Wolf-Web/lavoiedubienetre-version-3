@@ -109,7 +109,7 @@ export default function Footer() {
             </Link>
           ))}
         </div>
-        <p className="mt-10 text-center text-xs leading-5 text-gray-500">
+        <p className="mt-10 text-center text-xs leading-5 text-gray-300">
           &copy; 2024 La voie du bien-être & Massage à domicile - Tous droits réservés
         </p>
       </div>

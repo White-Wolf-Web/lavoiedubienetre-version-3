@@ -22,7 +22,7 @@ import Testimonial from "@/data/testimonial.json"
                       <p className="text-gray-900">{`“${testimonial.body}”`}</p>
                     </blockquote>
                     <figcaption className="mt-0 flex items-center gap-x-4">
-                      <Image className="h-10 w-10 rounded-full bg-gray-50" src={testimonial.author.imageUrl} width={100} height={100} alt="" />
+                      <Image className="h-10 w-10 rounded-full bg-gray-50" src={testimonial.author.imageUrl} width={100} height={100} alt={testimonial.author.imageAlt} />
                       <div className="font-semibold text-gray-900">
                         <div className='my-auto'>{testimonial.author.name}</div>
                        
