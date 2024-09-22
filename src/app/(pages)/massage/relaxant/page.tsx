@@ -3,7 +3,7 @@ import Image from "next/image";
 import MassageRelaxation from "@public/img/massage-relaxation-profonde.webp";
 import { MetadataMassageRelaxant } from "@/components/metadata/MetadataMassageRelaxant";
 import PagePicIconBar from "@/components/pagePicIconBar";
-import VideoMassageRelaxant from "@/components/video/videoMassageRelaxant";
+import VideoMassageRelaxant from "@/components/videos/videoMassageRelaxant";
 
 export const metadata: Metadata = {
 	title: "Massage relaxant à Halle - Bruxelles | La voie du bien-être",

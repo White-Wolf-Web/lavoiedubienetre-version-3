@@ -2,26 +2,25 @@ import Image from "next/image";
 import Introduction from "@/components/Introduction";
 import MassageCardContainer from "@/components/card/MassageCardContainer";
 import GloogleMap from "@/components/GloogleMap";
-import Testimonials from "@/components/Testimonials"
+import Testimonials from "@/components/Testimonials";
 import { MetadataHomePage } from "@/components/metadata/MetadataHomePage";
-import VideoSalonZenCourcelles from "@/components/video/videoSalonZenCourcelles";
+import VideoSalonZenCourcelles from "@/components/videos/videoSalonZenCourcelles";
 
 export default function Home() {
 	return (
-    <main className="flex-auto min-w-0  flex flex-col px-2 md:px-0">
-       <div className='max-w-4xl m-auto'>
-			<h1 className="font-medium text-3xl md:text-4xl lg:text-5xl mb-8 tracking-tighter">Massage relaxant</h1>
+		<main className="flex-auto min-w-0  flex flex-col px-2 md:px-0">
+			<div className="max-w-4xl m-auto">
+				<h1 className="font-medium text-3xl md:text-4xl lg:text-5xl mb-8 tracking-tighter">Massage relaxant - Shiatsu - Halle</h1>
 
-			<h2 className="font-medium text-2xl md:text-3xl lg:text-4xl mb-8 tracking-tighter">Shiatsu - Reiki - Réflexologie plantaire</h2>
+				{/*	<h2 className="font-medium text-2xl md:text-3xl lg:text-4xl mb-8 tracking-tighter"></h2>*/}
 
-			<Introduction />
-
-			<MassageCardContainer />
-			<GloogleMap />
-			<Testimonials />
-			<VideoSalonZenCourcelles  />
-      </div>
-	  <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataHomePage) }} />
+				<Introduction />
+				<MassageCardContainer />
+				<GloogleMap />
+				<Testimonials />
+				<VideoSalonZenCourcelles />
+			</div>
+			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataHomePage) }} />
 		</main>
 	);
 }

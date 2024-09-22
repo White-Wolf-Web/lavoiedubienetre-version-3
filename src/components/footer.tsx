@@ -47,7 +47,7 @@ export default function Footer() {
 					<Link href="https://instagram.com">
 						<Image src={MiniInstagram} alt="Note page Instagram" width={40} height={40} />
 					</Link>
-					<Link href="https://instagram.com">
+					<Link href="https://www.youtube.com">
 						<Image src={MiniYouTube} alt="Notre chaine Youtube" width={40} height={40} />
 					</Link>
 					<Link href="https://pinterest.com">

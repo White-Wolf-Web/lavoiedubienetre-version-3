@@ -17,7 +17,7 @@ export default function Introduction() {
 			<Image src={Masseur} alt="Stéphane votre masseur Halle - Bruxelles Belgique"   className="float-none m-auto sm:float-right sm:m-3" title="Votre massothérapeuthe Courcelles" width={300} height={450}></Image>
 			
 			<div>
-				<h3 className="inline-header">Massage</h3>
+				<h2 className="inline-header">Massage</h2>
 				<p>
 					Imaginez un moment où le monde extérieur s’efface, laissant place à une quiétude absolue. C’est ce que vous promettent mes massages, une expérience unique qui vous transporte loin
 					de tout.</p><p> Ici à Courcelles chaque massage relaxant est une invitation à un voyage intérieur, où l’on peut tout oublier, s’abandonner et profiter d&apos;un réconfort profond.
@@ -32,21 +32,21 @@ Votre système lymphatique va s’activer de lui même, facilitant ainsi l&apos;
 				</p>
 			</div>
 			<div className="inline-header divIntroduction">
-				<h3>Shiatsu</h3>
+				<h2>Shiatsu</h2>
 				<p>
 					Une thérapie manuelle japonaise qui, par une stimulation douce des points d&apos;acupuncture à travers le vêtement, ne se contente pas de masser mais libère les blocages
 					énergétiques. </p><p> Ce processus emprunte les méridiens de la médecine chinoise. Il permet de rééquilibrer les flux vitaux, de libérer les toxines tout en offrant un soulagement et une détente musculaire. Il s&apos;agit d&apos;une invitation pour un lâcher-prise profond.
 				</p>
 			</div>
 			<div className="inline-header divIntroduction">
-				<h3>Reiki</h3>
+				<h2>Reiki</h2>
 				<p>
 					Au-delà d&apos;une simple pratique énergétique, le Reiki est un voyage vers le rééquilibrage et la guérison sur tous les plans de l&apos;être. Par une stimulation non invasive, il
 					apaise le mental et le corps, favorisant une relaxation profonde et stimulante et renforce l&apos;énergie vitale.
 				</p>
 			</div>
 			<div className="inline-header divIntroduction">
-				<h3>Réflexologie plantaire</h3>
+				<h2>Réflexologie plantaire</h2>
 				<p>
 					Cette technique ne se limite pas au massage des pieds mais est une voie vers une santé optimale et un bien-être accru.</p><p>  Chaque pression appliquée est un geste d&apos;acupression qui
 					soulage les courbatures, active le système lymphatique et libère les tensions. Ce massage des pieds a pour fonction secondaire d&apos;assouplir la voûte plantaire et donc de réduire significativement les douleurs physiques.
