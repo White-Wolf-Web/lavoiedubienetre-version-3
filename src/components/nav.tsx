@@ -25,10 +25,7 @@ const navItems = {
 		name: "Reiki",
 		ariaLabel: "Page expliquant le Reiki",
 	},
-	"#contact": {
-		name: "Contact",
-		ariaLabel: "Formulaire de contact",
-	},
+	
 };
 
 export function Navbar() {

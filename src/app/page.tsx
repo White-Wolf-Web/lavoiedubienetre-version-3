@@ -5,6 +5,10 @@ import GloogleMap from "@/components/GloogleMap";
 import Testimonials from "@/components/Testimonials";
 import { MetadataHomePage } from "@/components/metadata/MetadataHomePage";
 import VideoSalonZenCourcelles from "@/components/videos/videoSalonZenCourcelles";
+import CtaSection from "@/components/CtaSection";
+import PriceSection from "@/components/PriceSection";
+import Divider from "@/components/Divider"
+
 
 export default function Home() {
 	return (
@@ -18,7 +22,11 @@ export default function Home() {
 				<MassageCardContainer />
 				<GloogleMap />
 				<Testimonials />
+				<CtaSection />
 				<VideoSalonZenCourcelles />
+				<PriceSection />
+				<Divider />
+				
 			</div>
 			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataHomePage) }} />
 		</main>

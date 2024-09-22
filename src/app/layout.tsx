@@ -8,6 +8,7 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
 import { Analytics } from "@vercel/analytics/react"
 import GoogleAnalytics from "../../GoogleAnalytics";
 
+
 export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
@@ -78,10 +79,11 @@ export default function RootLayout({
     <html lang="fr">
        <GoogleAnalytics />
        <body className="antialiased max-w-5xl mb-5  md:flex-row mx-4  lg:mx-auto">
-   
+
         <Header />
         {children}
         <Footer />
+
         <SpeedInsights />
         <Analytics />
       

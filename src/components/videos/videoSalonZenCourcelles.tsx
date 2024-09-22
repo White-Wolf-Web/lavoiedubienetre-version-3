@@ -4,7 +4,7 @@ import { MetadataVideoSalonZen } from "../metadata/videos/metadataVideoSalonZen"
 
 export default function VideoSalonZenCourcelles() {
 	return (
-		<section className="video-container mt-0 aspect-w-16 aspect-h-9">
+		<section className="video-container mt-12 aspect-w-16 aspect-h-9 pt-10 sm:pt-12">
 			<h2 className="text-gray-300 font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">Vidéo vous montrant ma petite salle zen ou je donne des massages</h2>
 			<video
 				width="320"

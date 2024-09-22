@@ -8,7 +8,7 @@ import Testimonial from "@/data/testimonial.json"
       <div className="bg-black py-4">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-xl text-center">
-            <h2 className="text-3xl font-semibold leading-8 tracking-tight text-cyan-700">Testimonials</h2>
+          <h2 className="text-3xl font-semibold leading-7 text-cyan-500">Testimonials</h2>
             <p className="mt-2 text-3xl font-bold tracking-tight text-gray-200 sm:text-4xl">
               De nombreuses personnes sont venu se faire masser ...
             </p>
