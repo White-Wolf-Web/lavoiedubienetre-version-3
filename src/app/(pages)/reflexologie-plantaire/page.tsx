@@ -16,6 +16,8 @@ export const metadata: Metadata = {
 		description: "Réflexologie Plantaire à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/reflexologie-plantaire",
 		type: "website",
+		siteName: 'La voie du bien-être - réflexologie plantaire',
+    locale: 'fr_BE',
 		images: [
 			{
 				url: "https://lavoiedubienetre.be/img/OpenGraph/OG-massage-pieds.jpg",
@@ -39,7 +41,7 @@ export default function ReflexologiePlantaire() {
 				<p>En stimulant ces points, la réflexologie plantaire vise à améliorer la santé globale, soulager divers maux, et favoriser un équilibre énergétique.</p>
 				<div>
 					<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">Pourquoi Opter pour un Massage des Pieds ?</h3>
-					<Image src={massagePieds} alt="massage des pieds effectué à 2 mains" width={400} className="rounded mr-4 mt-4 float-left h-auto" />
+					<Image src={massagePieds} alt="massage des pieds effectué à 2 mains" width={400} className="rounded mr-4 mt-4 float-left h-auto"  title="une séance visant les points réflexes du pied"/>
 					<p>
 						Il est souvent dit que nos pieds sont le miroir de notre santé générale. La réflexologie plantaire utilise ce principe pour agir sur l&apos;ensemble de l&apos;organisme. Par
 						des techniques de pression précises, ce massage des pieds aide à débloquer les canaux d&apos;énergie, réduire le stress, et faciliter la guérison naturelle du corps.

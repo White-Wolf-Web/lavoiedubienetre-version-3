@@ -15,6 +15,8 @@ export const metadata: Metadata = {
 		description: "Massage sportif à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/sportif",
 		type: 'website',
+		siteName: 'La voie du bien-être - massage sportif',
+    locale: 'fr_BE',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-massage-dos-muscle.jpg',
 			width: 1200,
@@ -38,7 +40,7 @@ export default function Sportif() {
 				</p>
 				<div>
 					<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">L&apos;Essence du Massage Sportif</h3>
-					<Image src={MassageProfond} alt="massage profond sur une omoplate" width={400} className="rounded mr-4 mt-4 float-left h-auto" />
+					<Image src={MassageProfond} alt="massage profond sur une omoplate" width={400} className="rounded mr-4 mt-4 float-left h-auto" title="Massage ideal pour les ceux pratiquant régulierement un sport" />
 					<p>
 						Le massage sportif est une pratique ciblée, qui s&apos;articule autour de la préparation des muscles à l&apos;effort, de l&apos;optimisation de la récupération après
 						l&apos;entraînement, il permet de maintenir la souplesse musculaire et il contribue également à la <strong>prévention des blessures</strong>.

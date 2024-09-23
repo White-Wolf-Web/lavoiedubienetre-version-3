@@ -16,6 +16,8 @@ export const metadata: Metadata = {
 		description: "Massage anti-cellulite à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/shiatsu/amma",
 		type: 'website',
+		siteName: 'La voie du bien-être - massage sur chaise',
+    locale: 'fr_BE',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-amma.jpg',
 			width: 1200,
@@ -42,7 +44,7 @@ export default function Amma() {
 				</p>
 				<div>
 					<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">Qu&apos;est-ce que le Massage sur Chaise ?</h3>
-					<Image src={MassageAssis} alt="massage sur chaise relaxant" width={400} className="rounded mr-4 mt-4 float-left h-auto" />
+					<Image src={MassageAssis} alt="massage sur chaise relaxant" width={400} className="rounded mr-4 mt-4 float-left h-auto" title="Séance de 15 minutes sur votre lieu de travail" />
 					<p>Originaire du Japon, le Amma (qui signifie &apos;calmer par le toucher&apos;) est pratiqué sur une chaise ergonomique conçue spécifiquement pour ce type de massage. </p>
 					<p>En seulement 15 à 30 minutes, cette technique cible les zones de tension dans le dos, les épaules, le cou, les bras et la tête. </p>
 					<p>

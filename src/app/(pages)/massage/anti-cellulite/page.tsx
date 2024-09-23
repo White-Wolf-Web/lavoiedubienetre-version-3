@@ -15,6 +15,8 @@ export const metadata: Metadata = {
 		description: "Massage anti-cellulite à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/anti-cellulite",
 		type: 'website',
+		siteName: 'La voie du bien-être - massage anti-cellulite',
+    locale: 'fr_BE',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-image-massage-Courcelles.jpg',
 			width: 1200,
@@ -41,7 +43,7 @@ export default function AntiCellulite() {
 				</p>
 				<div>
 					<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">L&apos;Approche Révolutionnaire du Massage aux Ventouses</h3>
-					<Image src={MassageVentouses} alt="massage profond sur une omoplate" width={400} className="rounded mr-4 mt-4 float-left h-auto" />
+					<Image src={MassageVentouses} alt="massage profond sur une omoplate" width={400} className="rounded mr-4 mt-4 float-left h-auto" title="Un massage travaillant à déloger la cellulite" />
 					<p>
 						Le massage aux ventouses utilise des coupelles spécialement conçues pour créer un vide partiel sur la peau, stimulant ainsi la circulation sanguine et lymphatique dans les
 						zones traitées.

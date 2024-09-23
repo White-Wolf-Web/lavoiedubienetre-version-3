@@ -16,6 +16,8 @@ export const metadata: Metadata = {
 		description: "Reiki Usui à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/reiki",
 		type: 'website',
+		siteName: 'La voie du bien-être - Reiki',
+    locale: 'fr_BE',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-seance-de-reiki.jpg',
 			width: 1200,
@@ -39,7 +41,7 @@ export default function Reiki() {
 				</p>
 				<div>
 					<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">Qu&apos;est-ce que le Reiki ?</h3>
-					<Image src={ReikiDistance} alt="Séance de reiki, 2 mains à quelques cm de ditance du ventre" width={400} className="rounded mr-4 mt-4 float-left h-auto" />
+					<Image src={ReikiDistance} alt="Séance de reiki, 2 mains à quelques cm de ditance du ventre" width={400} className="rounded mr-4 mt-4 float-left h-auto" title="Pause énergétique" />
 					<p>
 						Le Reiki, qui signifie &apos;énergie vitale universelle&apos;, est une méthode de guérison douce où le praticien canalise cette <strong>énergie universelle </strong>et la
 						transmet par imposition des mains.

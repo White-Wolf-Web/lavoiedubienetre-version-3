@@ -56,6 +56,7 @@ export const metadata = {
     title: 'La voie du bien-être | Shiatsu Reiki Massage à Halle',
     card: 'summary_large_image',
     images: 'https://lavoiedubienetre.be/img/OpenGraph/OG-image-massage-Courcelles.jpg',
+    imageAlt: 'Image montrant un massage relaxant à Halle dans le centre La voie du bien-être',
     site:'@voiedubienetre',
     description:'Centre de massage à Halle | Shiatsu Reiki Reflexologie Plantaire | La voie du bien-être'
 

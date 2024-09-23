@@ -15,6 +15,8 @@ export const metadata: Metadata = {
 		description: "Massage doux des fascias à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/voyage-des-sens",
 		type: 'website',
+		siteName: 'La voie du bien-être - massage des fascias',
+    locale: 'fr_BE',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-massage-bien-etre.jpg',
 			width: 1200,
@@ -39,7 +41,7 @@ export default function VoyageDesSens() {
 				<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">L&apos;Essence du &apos;Voyage des Sens&apos;</h3>
 				<div>
 					{" "}
-					<Image src={MassageDouceur} alt="massage efféctué en douceur" width={400} className="rounded mr-4 mt-4 float-left h-auto" />
+					<Image src={MassageDouceur} alt="massage efféctué en douceur" width={400} className="rounded mr-4 mt-4 float-left h-auto" title="Massage tres doux des fascias"/>
 					<p>
 						Ce massage est une ode à la douceur, une <strong>célébration du lâcher-prise</strong>. Par des techniques spécifiquement conçues pour <strong>agir sur les fascias</strong>, ce
 						massage offre une décontraction musculaire profonde, favorisant une détente intégrale du corps et de l&apos;esprit.

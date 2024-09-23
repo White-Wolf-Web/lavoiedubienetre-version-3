@@ -16,6 +16,8 @@ export const metadata: Metadata = {
 		description: "Massage relaxant à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/relaxant",
 		type: "website",
+		siteName: 'La voie du bien-être - massage relaxant',
+    locale: 'fr_BE',
 		images: [
 			{
 				url: "https://lavoiedubienetre.be/img/OpenGraph/OG-massage-relaxant.jpg",
@@ -42,7 +44,7 @@ export default function Relaxant() {
 
 				<div>
 					<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">L&apos;Art du Massage Relaxant</h3>
-					<Image src={MassageRelaxation} alt="massage relaxant" width={400} className="rounded mr-4 mt-4 float-left h-auto" />
+					<Image src={MassageRelaxation} alt="massage relaxant" width={400} className="rounded mr-4 mt-4 float-left h-auto" title="Jeune femme recevant un massage doux" />
 					<p>
 						Le massage relaxant, pratiqué avec des huiles essentielles choisies pour leurs propriétés apaisantes, est une technique douce visant à détendre l&apos;ensemble du corps et à
 						apaiser l&apos;esprit.

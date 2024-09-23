@@ -15,6 +15,8 @@ export const metadata: Metadata = {
 		description: "Massage du dos, des épaules et de la nuque à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/douceur-dorsale",
 		type: 'website',
+		siteName: 'La voie du bien-être - massage dorsal',
+    locale: 'fr_BE',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-massage-dos.jpg',
 			width: 1200,
@@ -39,7 +41,7 @@ export default function DouceurDorsale() {
 				</p>
 				<div>
 					<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">L&lsquo;Essence du Massage &lsquo;Douceur Dorsale&lsquo;</h3>
-					<Image src={MassageDorsale} alt="massage profond sur une omoplate" width={400} className="rounded mr-4 mt-4 float-left h-auto" />{" "}
+					<Image src={MassageDorsale} alt="massage profond sur une omoplate" width={400} className="rounded mr-4 mt-4 float-left h-auto" title="Massage pour dénouer les noeuds du dos" />{" "}
 					<p>
 						Ce massage du dos est une technique raffinée qui combine des mouvements doux et apaisants avec des techniques de pétrissage et d&apos;effleurage ciblées sur le dos, les
 						épaules, les omoplates et la nuque.

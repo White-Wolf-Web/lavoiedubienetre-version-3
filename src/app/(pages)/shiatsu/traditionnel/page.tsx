@@ -16,6 +16,8 @@ export const metadata: Metadata = {
 		description: "Shiatsu à Halle - Bruxelles. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/shiatsu/traditionnel",
 		type: 'website',
+		siteName: 'La voie du bien-être - shiatsu',
+    locale: 'fr_BE',
 		images: [{
 			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-Shiatsu-au-niveau-cranien.jpg',
 			width: 1200,
@@ -41,7 +43,7 @@ export default function TraditionnelShiatsu() {
 				<div className="w-full float-none">
 					<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">L&apos;Essence du Shiatsu : Plus qu&apos;un Massage, une Voie vers l&apos;Équilibre</h3>
 					<div className="float-none">
-						<Image src={shiatsuSurFuton} alt="Homme pratiquant le shiatsu sur un futon" width={400} className="rounded mr-4 mt-4 float-left h-auto" />
+						<Image src={shiatsuSurFuton} alt="Homme pratiquant le shiatsu sur un futon" width={400} className="rounded mr-4 mt-4 float-left h-auto" title="Massage issu de la medecine chinoise - japonaise"/>
 						<p>
 							Le Shiatsu se distingue des autres formes de massage par son approche holistique et sa philosophie fondée sur les principes de la médecine traditionnelle chinoise. Il ne se
 							limite pas à traiter les symptômes isolés, mais vise à harmoniser le Qi (énergie vitale) dans l&apos;ensemble du corps, favorisant ainsi la capacité naturelle de guérison

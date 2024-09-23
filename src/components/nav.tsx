@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 import { Dialog, DialogPanel } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import Image from "next/image";
+import { title } from "process";
 
 // Navigation items
 const navItems = {
@@ -16,14 +17,17 @@ const navItems = {
 	"/#massages": {
 		name: "Massage",
 		ariaLabel: "Section regroupant les massages",
+		title:"Sections des massages"
 	},
 	"/shiatsu/traditionnel": {
 		name: "Shiatsu",
 		ariaLabel: "Page parlant du Shiatsu",
+		title:"direction le Shiatsu"
 	},
 	"/reiki": {
 		name: "Reiki",
 		ariaLabel: "Page expliquant le Reiki",
+		title:"vers la page du Reiki"
 	},
 	
 };
