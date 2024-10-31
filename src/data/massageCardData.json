@@ -83,5 +83,14 @@
 		"imageAlt": "4 doigts effleurant la nuque",
 		"url":"/massage/douceur-dorsale",
 		"titleImg":"Prise en contact de la nuque"
+	},
+	{
+		"id": 10,
+		"title": "Massage Tao",
+		"description": "Reconnectez-vous à votre essence, vivez le bien-être profond du massage Tao. Un voyage sensoriel & apaisant où chaque toucher célèbre votre bien-être. ",
+		"imageUrl": "/img/massage-tao-card.webp",
+		"imageAlt": "un sourire",
+		"url":"/massage/tao",
+		"titleImg":"la sensualité d'un sourire"
 	}
 ]

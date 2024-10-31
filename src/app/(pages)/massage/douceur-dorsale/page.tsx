@@ -6,23 +6,25 @@ import PagePicIconBar from "@/components/pagePicIconBar";
 
 export const metadata: Metadata = {
 	title: "Massage Dos, Epaules & Nuque à Halle - Bruxelles | Douceur dorsale",
-	description: "Massage du dos, des épaules et de la nuque à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+	description: "Massage du dos, des épaules et de la nuque à Halle. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 	alternates: {
 		canonical: "https://lavoiedubienetre.be/massage/douceur-dorsale",
 	},
 	openGraph: {
 		title: "Massage Dos, Epaules & Nuque à Halle - Bruxelles | La voie du bien-être",
-		description: "Massage du dos, des épaules et de la nuque à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+		description: "Massage du dos, des épaules et de la nuque à Halle. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/douceur-dorsale",
-		type: 'website',
-		siteName: 'La voie du bien-être - massage dorsal',
-    locale: 'fr_BE',
-		images: [{
-			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-massage-dos.jpg',
-			width: 1200,
-			height: 627,
-			alt: 'Massage des épaules à Halle - Bruxelles',
-		  }],
+		type: "website",
+		siteName: "La voie du bien-être - massage dorsal",
+		locale: "fr_BE",
+		images: [
+			{
+				url: "https://lavoiedubienetre.be/img/OpenGraph/OG-massage-dos.jpg",
+				width: 1200,
+				height: 627,
+				alt: "Massage des épaules à Halle - Bruxelles",
+			},
+		],
 	},
 };
 export default function DouceurDorsale() {
@@ -30,9 +32,7 @@ export default function DouceurDorsale() {
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">Le Massage &quot;Douceur Dorsale&quot;</h1>
 			<section className="container space-y-4 max-w-4xl mx-auto p-4 mb-12">
-			<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">
-					Une Ode au Soulagement du Dos, des Épaules et de la Nuque
-				</h2>
+				<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">Une Ode au Soulagement du Dos, des Épaules et de la Nuque</h2>
 				<p>
 					Dans notre quête quotidienne du bien-être, la zone dorsale mérite une attention toute particulière. Souvent victime de tensions et de douleurs dues au stress, à une mauvaise
 					posture ou à un mode de vie sédentaire, le dos, les épaules et la nuque réclament un soin spécifique pour retrouver détente et souplesse. C&apos;est dans cet esprit que La voie du
@@ -41,7 +41,13 @@ export default function DouceurDorsale() {
 				</p>
 				<div>
 					<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">L&lsquo;Essence du Massage &lsquo;Douceur Dorsale&lsquo;</h3>
-					<Image src={MassageDorsale} alt="massage profond sur une omoplate" width={400} className="rounded mr-4 mt-4 float-left h-auto" title="Massage pour dénouer les noeuds du dos" />{" "}
+					<Image
+						src={MassageDorsale}
+						alt="massage profond sur une omoplate"
+						width={400}
+						className="rounded mr-4 mt-4 float-left h-auto"
+						title="Massage pour dénouer les noeuds du dos"
+					/>{" "}
 					<p>
 						Ce massage du dos est une technique raffinée qui combine des mouvements doux et apaisants avec des techniques de pétrissage et d&apos;effleurage ciblées sur le dos, les
 						épaules, les omoplates et la nuque.

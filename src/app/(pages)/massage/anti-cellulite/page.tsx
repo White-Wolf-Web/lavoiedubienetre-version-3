@@ -12,17 +12,19 @@ export const metadata: Metadata = {
 	},
 	openGraph: {
 		title: "Massage anti-cellulite à Halle - Bruxelles | La voie du bien-être",
-		description: "Massage anti-cellulite à Trazegnies. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
+		description: "Massage anti-cellulite à Halle. Découvrez nos soins personnalisés et retrouvez harmonie, bien-être et sérénité dans un cadre apaisant.",
 		url: "https://lavoiedubienetre.be/massage/anti-cellulite",
-		type: 'website',
-		siteName: 'La voie du bien-être - massage anti-cellulite',
-    locale: 'fr_BE',
-		images: [{
-			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-image-massage-Courcelles.jpg',
-			width: 1200,
-			height: 627,
-			alt: 'La voie du bien-être à Halle - Bruxelles',
-		  }],
+		type: "website",
+		siteName: "La voie du bien-être - massage anti-cellulite",
+		locale: "fr_BE",
+		images: [
+			{
+				url: "https://lavoiedubienetre.be/img/OpenGraph/OG-image-massage-Courcelles.jpg",
+				width: 1200,
+				height: 627,
+				alt: "La voie du bien-être à Halle - Bruxelles",
+			},
+		],
 	},
 };
 export default function AntiCellulite() {
@@ -30,9 +32,7 @@ export default function AntiCellulite() {
 		<main>
 			<h1 className="text-3xl md:text-4xl lg:text-5xl leading-tight">Le Massage Anti-Cellulite</h1>
 			<section className="container space-y-4 max-w-4xl mx-auto p-4 mb-12">
-			<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">
-					Redéfinissez Votre Silhouette grâce aux Ventouses
-				</h2>
+				<h2 className=" text-gray-300  font-medium text-l md:text-xl lg:text-2xl mb-8 tracking-tighter">Redéfinissez Votre Silhouette grâce aux Ventouses</h2>
 				<p>
 					Dans la quête d&apos;une silhouette affinée et d&apos;une peau lisse, le massage anti-cellulite aux ventouses proposé par la voie du bien-être se présente comme une solution
 					innovante et efficace.{" "}
@@ -43,7 +43,13 @@ export default function AntiCellulite() {
 				</p>
 				<div>
 					<h3 className="text-xl md:text-2xl text-left custom-mt-2rem  leading-normal">L&apos;Approche Révolutionnaire du Massage aux Ventouses</h3>
-					<Image src={MassageVentouses} alt="massage profond sur une omoplate" width={400} className="rounded mr-4 mt-4 float-left h-auto" title="Un massage travaillant à déloger la cellulite" />
+					<Image
+						src={MassageVentouses}
+						alt="massage profond sur une omoplate"
+						width={400}
+						className="rounded mr-4 mt-4 float-left h-auto"
+						title="Un massage travaillant à déloger la cellulite"
+					/>
 					<p>
 						Le massage aux ventouses utilise des coupelles spécialement conçues pour créer un vide partiel sur la peau, stimulant ainsi la circulation sanguine et lymphatique dans les
 						zones traitées.
@@ -87,8 +93,6 @@ export default function AntiCellulite() {
 				</p>
 				<p>Laissez-nous vous guider vers une peau plus lisse, une silhouette plus ferme et un bien-être accru. </p>
 				<p>Avec le massage anti-cellulite aux ventouses, ouvrez la porte à une nouvelle version de vous-même, où la confiance et la beauté vont de pair avec la santé et la vitalité.</p>
-
-				
 			</section>
 			<PagePicIconBar />
 			<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(MetadataMassageAntiCellulite) }} />
