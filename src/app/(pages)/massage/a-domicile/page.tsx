@@ -1,8 +1,34 @@
 import React from 'react';
+import type { Metadata } from "next";
+import PagePicIconBar from "@/components/pagePicIconBar";
+import CtaButton from "@/components/CtaButton";
+
+export const metadata: Metadata = {
+	title: "Massage à Domicile Bruxelles - Nivelles - Halle",
+	description: "Un massage chez soi, votre masseur préféré vient à vous avec tout son materiel, vous aurez juste à vous laisser chouchouter ",
+	alternates: {
+		canonical: "https://lavoiedubienetre.be/massage/a-domicile",
+	},
+	openGraph: {
+		title: "Massage à Domicile Bruxelles - Nivelles - Halle",
+		description: "Un massage chez soi, votre masseur préféré vient à vous avec tout son materiel, vous aurez juste à vous laisser chouchouter",
+		url: "https://lavoiedubienetre.be/massage/a-domicile",
+		type: 'website',
+		siteName: 'La voie du bien-être - massage à domicile',
+    locale: 'fr_BE',
+		images: [{
+			url: 'https://lavoiedubienetre.be/img/OpenGraph/OG-image-massage-Courcelles.jpg',
+			width: 1200,
+			height: 627,
+			alt: 'La voie du bien-être à Halle - Bruxelles',
+		  }],
+	},
+};
 
 export default function ADomicile() {
   return (
-    <div className="p-6 max-w-4xl mx-auto">
+    <div className="bg-black text-gray-200 py-12 px-6 lg:px-24">
+			<div className="text-center mb-12">
       <h1 className="text-3xl font-bold mb-6">Les Bienfaits des Massages à Domicile à Bruxelles et ses Alentours</h1>
       
       <p className="mb-4">
@@ -67,11 +93,13 @@ export default function ADomicile() {
       <p className="mb-4">
         Les masseurs à domicile offrent souvent des créneaux horaires plus flexibles, permettant de s’adapter facilement aux contraintes d’emploi du temps.
       </p>
-
+      <CtaButton />
       <h2 className="text-2xl font-semibold mt-6 mb-4">Conclusion : Le Massage à Domicile, un Moment de Bien-Être Précieux pour les Habitants de Bruxelles et ses Alentours</h2>
       <p className="mb-4">
         Le <strong>massage à domicile</strong> est devenu une solution de bien-être pratique et accessible pour les habitants de Bruxelles, Halle, Nivelles et Tubize. Il offre une pause détente sur mesure, adaptée aux besoins spécifiques de chacun, tout en garantissant un confort optimal. Que vous soyez un adepte du massage relaxant, thérapeutique ou sportif, recevoir un soin chez vous est une expérience unique qui allie efficacité et bien-être.
       </p>
+    </div>
+    <PagePicIconBar />
     </div>
   );
 }
